@@ -1,0 +1,16 @@
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% Sat Nov  2 23:43:16 2019
+\begin{tabular}{rlllr}
+  \hline
+ & Model Type & Subject \# & Grammaticality & Average Surprisal \\ 
+  \hline
+1 & lstm & P & G & 5.14 \\ 
+  2 & lstm & P & U & 5.19 \\ 
+  3 & lstm & S & G & 5.06 \\ 
+  4 & lstm & S & U & 5.16 \\ 
+  5 & rnng & P & G & 7.31 \\ 
+  6 & rnng & P & U & 7.30 \\ 
+  7 & rnng & S & G & 7.22 \\ 
+  8 & rnng & S & U & 7.40 \\ 
+   \hline
+\end{tabular}

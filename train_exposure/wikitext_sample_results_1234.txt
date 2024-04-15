@@ -1,0 +1,9 @@
+# of sentences: 500000
+# of grammatical agreement relations: 289291
+# of agreement relations: 353337
+# of intervening attractors: 109289
+# of nonintervening attractors: 279675
+# of doubly embedded PP attractors: 18572
+# of PP attractors: 125861
+# of RC attractors: 11027
+# of disjunct subjects: 2174

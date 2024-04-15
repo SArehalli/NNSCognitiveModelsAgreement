@@ -1,0 +1,257 @@
+item,condition,sentence,target,alternative
+Bock1992_0_ss_prop,ss_prop,The demo tape from the popular rock singer,is,are
+Bock1992_0_ss_rc,ss_rc,The demo tape that promoted the rock singer,is,are
+Bock1992_0_sp_prop,sp_prop,The demo tape from the popular rock singers,is,are
+Bock1992_0_sp_rc,sp_rc,The demo tape that promoted the rock singers,is,are
+Bock1992_0_ps_prop,ps_prop,The demo tapes from the popular rock singer,are,is
+Bock1992_0_ps_rc,ps_rc,The demo tapes that promoted the rock singer,are,is
+Bock1992_0_pp_prop,pp_prop,The demo tapes from the popular rock singers,are,is
+Bock1992_0_pp_rc,pp_rc,The demo tapes that promoted the rock singers,are,is
+Bock1992_1_ss_prop,ss_prop,The pamphlet from the British government agency,is,are
+Bock1992_1_ss_rc,ss_rc,The pamphlet that described the government agency,is,are
+Bock1992_1_sp_prop,sp_prop,The pamphlet from the British government agencies,is,are
+Bock1992_1_sp_rc,sp_rc,The pamphlet that described the government agencies,is,are
+Bock1992_1_ps_prop,ps_prop,The pamphlets from the British government agency,are,is
+Bock1992_1_ps_rc,ps_rc,The pamphlets that described the government agency,are,is
+Bock1992_1_pp_prop,pp_prop,The pamphlets from the British government agencies,are,is
+Bock1992_1_pp_rc,pp_rc,The pamphlets that described the government agencies,are,is
+Bock1992_2_ss_prop,ss_prop,The fire-eater in the carnival show,is,are
+Bock1992_2_ss_rc,ss_rc,The fire-eater who enlivened the show,is,are
+Bock1992_2_sp_prop,sp_prop,The fire-eater in the carnival shows,is,are
+Bock1992_2_sp_rc,sp_rc,The fire-eater who enlivened the shows,is,are
+Bock1992_2_ps_prop,ps_prop,The fire-eaters in the carnival show,are,is
+Bock1992_2_ps_rc,ps_rc,The fire-eaters who enlivened the show,are,is
+Bock1992_2_pp_prop,pp_prop,The fire-eaters in the carnival shows,are,is
+Bock1992_2_pp_rc,pp_rc,The fire-eaters who enlivened the shows,are,is
+Bock1992_3_ss_prop,ss_prop,The bright light in Doctor Smith 's examination room,is,are
+Bock1992_3_ss_rc,ss_rc,The bright light that lit the small examination room,is,are
+Bock1992_3_sp_prop,sp_prop,The bright light in Doctor Smith 's examination rooms,is,are
+Bock1992_3_sp_rc,sp_rc,The bright light that lit the small examination rooms,is,are
+Bock1992_3_ps_prop,ps_prop,The bright lights in Doctor Smith 's examination room,are,is
+Bock1992_3_ps_rc,ps_rc,The bright lights that lit the small examination room,are,is
+Bock1992_3_pp_prop,pp_prop,The bright lights in Doctor Smith 's examination rooms,are,is
+Bock1992_3_pp_rc,pp_rc,The bright lights that lit the small examination rooms,are,is
+Bock1992_4_ss_prop,ss_prop,The security force at the giant manufacturing plant,is,are
+Bock1992_4_ss_rc,ss_rc,The security force that patrolled the manufacturing plant,is,are
+Bock1992_4_sp_prop,sp_prop,The security force at the giant manufacturing plants,is,are
+Bock1992_4_sp_rc,sp_rc,The security force that patrolled the manufacturing plants,is,are
+Bock1992_4_ps_prop,ps_prop,The security forces at the giant manufacturing plant,are,is
+Bock1992_4_ps_rc,ps_rc,The security forces that patrolled the manufacturing plant,are,is
+Bock1992_4_pp_prop,pp_prop,The security forces at the giant manufacturing plants,are,is
+Bock1992_4_pp_rc,pp_rc,The security forces that patrolled the manufacturing plants,are,is
+Bock1992_5_ss_prop,ss_prop,The confession of the famous television preacher,is,are
+Bock1992_5_ss_rc,ss_rc,The confession that involved the television preacher,is,are
+Bock1992_5_sp_prop,sp_prop,The confession of the famous television preachers,is,are
+Bock1992_5_sp_rc,sp_rc,The confession that involved the television preachers,is,are
+Bock1992_5_ps_prop,ps_prop,The confessions of the famous television preacher,are,is
+Bock1992_5_ps_rc,ps_rc,The confessions that involved the television preacher,are,is
+Bock1992_5_pp_prop,pp_prop,The confessions of the famous television preachers,are,is
+Bock1992_5_pp_rc,pp_rc,The confessions that involved the television preachers,are,is
+Bock1992_6_ss_prop,ss_prop,The charismatic leader of the left - wing dissident group,is,are
+Bock1992_6_ss_rc,ss_rc,The charismatic leader who addressed the dissident group,is,are
+Bock1992_6_sp_prop,sp_prop,The charismatic leader of the left - wing dissident groups,is,are
+Bock1992_6_sp_rc,sp_rc,The charismatic leader who addressed the dissident groups,is,are
+Bock1992_6_ps_prop,ps_prop,The charismatic leaders of the left - wing dissident group,are,is
+Bock1992_6_ps_rc,ps_rc,The charismatic leaders who addressed the dissident group,are,is
+Bock1992_6_pp_prop,pp_prop,The charismatic leaders of the left - wing dissident groups,are,is
+Bock1992_6_pp_rc,pp_rc,The charismatic leaders who addressed the dissident groups,are,is
+Bock1992_7_ss_prop,ss_prop,The advisor for the chemistry student,is,are
+Bock1992_7_ss_rc,ss_rc,The advisor who directed the student,is,are
+Bock1992_7_sp_prop,sp_prop,The advisor for the chemistry students,is,are
+Bock1992_7_sp_rc,sp_rc,The advisor who directed the students,is,are
+Bock1992_7_ps_prop,ps_prop,The advisors for the chemistry student,are,is
+Bock1992_7_ps_rc,ps_rc,The advisors who directed the student,are,is
+Bock1992_7_pp_prop,pp_prop,The advisors for the chemistry students,are,is
+Bock1992_7_pp_rc,pp_rc,The advisors who directed the students,are,is
+Bock1992_8_ss_prop,ss_prop,The superintendent of the technical school,is,are
+Bock1992_8_ss_rc,ss_rc,The superintendent who inspected the school,is,are
+Bock1992_8_sp_prop,sp_prop,The superintendent of the technical schools,is,are
+Bock1992_8_sp_rc,sp_rc,The superintendent who inspected the schools,is,are
+Bock1992_8_ps_prop,ps_prop,The superintendents of the technical school,are,is
+Bock1992_8_ps_rc,ps_rc,The superintendents who inspected the school,are,is
+Bock1992_8_pp_prop,pp_prop,The superintendents of the technical schools,are,is
+Bock1992_8_pp_rc,pp_rc,The superintendents who inspected the schools,are,is
+Bock1992_9_ss_prop,ss_prop,The memo from the junior executive,is,are
+Bock1992_9_ss_rc,ss_rc,The memo that concerned the executive,is,are
+Bock1992_9_sp_prop,sp_prop,The memo from the junior executives,is,are
+Bock1992_9_sp_rc,sp_rc,The memo that concerned the executives,is,are
+Bock1992_9_ps_prop,ps_prop,The memoes from the junior executive,are,is
+Bock1992_9_ps_rc,ps_rc,The memoes that concerned the executive,are,is
+Bock1992_9_pp_prop,pp_prop,The memoes from the junior executives,are,is
+Bock1992_9_pp_rc,pp_rc,The memoes that concerned the executives,are,is
+Bock1992_10_ss_prop,ss_prop,The neutral zone around the Arcturian solar system,is,are
+Bock1992_10_ss_rc,ss_rc,The neutral zone that split the Arcturian solar system,is,are
+Bock1992_10_sp_prop,sp_prop,The neutral zone around the Arcturian solar systems,is,are
+Bock1992_10_sp_rc,sp_rc,The neutral zone that split the Arcturian solar systems,is,are
+Bock1992_10_ps_prop,ps_prop,The neutral zones around the Arcturian solar system,are,is
+Bock1992_10_ps_rc,ps_rc,The neutral zones that split the Arcturian solar system,are,is
+Bock1992_10_pp_prop,pp_prop,The neutral zones around the Arcturian solar systems,are,is
+Bock1992_10_pp_rc,pp_rc,The neutral zones that split the Arcturian solar systems,are,is
+Bock1992_11_ss_prop,ss_prop,The traffic jam on the Okemos street,is,are
+Bock1992_11_ss_rc,ss_rc,The traffic jam that obstructed the street,is,are
+Bock1992_11_sp_prop,sp_prop,The traffic jam on the Okemos streets,is,are
+Bock1992_11_sp_rc,sp_rc,The traffic jam that obstructed the streets,is,are
+Bock1992_11_ps_prop,ps_prop,The traffic jams on the Okemos street,are,is
+Bock1992_11_ps_rc,ps_rc,The traffic jams that obstructed the street,are,is
+Bock1992_11_pp_prop,pp_prop,The traffic jams on the Okemos streets,are,is
+Bock1992_11_pp_rc,pp_rc,The traffic jams that obstructed the streets,are,is
+Bock1992_12_ss_prop,ss_prop,The office of the certified accountant,is,are
+Bock1992_12_ss_rc,ss_rc,The office that belonged to the accountant,is,are
+Bock1992_12_sp_prop,sp_prop,The office of the certified accountants,is,are
+Bock1992_12_sp_rc,sp_rc,The office that belonged to the accountants,is,are
+Bock1992_12_ps_prop,ps_prop,The offices of the certified accountant,are,is
+Bock1992_12_ps_rc,ps_rc,The offices that belonged to the accountant,are,is
+Bock1992_12_pp_prop,pp_prop,The offices of the certified accountants,are,is
+Bock1992_12_pp_rc,pp_rc,The offices that belonged to the accountants,are,is
+Bock1992_13_ss_prop,ss_prop,The rebel soldier in the furious battle,is,are
+Bock1992_13_ss_rc,ss_rc,The rebel soldier who deserted the battle,is,are
+Bock1992_13_sp_prop,sp_prop,The rebel soldier in the furious battles,is,are
+Bock1992_13_sp_rc,sp_rc,The rebel soldier who deserted the battles,is,are
+Bock1992_13_ps_prop,ps_prop,The rebel soldiers in the furious battle,are,is
+Bock1992_13_ps_rc,ps_rc,The rebel soldiers who deserted the battle,are,is
+Bock1992_13_pp_prop,pp_prop,The rebel soldiers in the furious battles,are,is
+Bock1992_13_pp_rc,pp_rc,The rebel soldiers who deserted the battles,are,is
+Bock1992_14_ss_prop,ss_prop,The actor in the blockbuster film,is,are
+Bock1992_14_ss_rc,ss_rc,The actor who directed the film,is,are
+Bock1992_14_sp_prop,sp_prop,The actor in the blockbuster films,is,are
+Bock1992_14_sp_rc,sp_rc,The actor who directed the films,is,are
+Bock1992_14_ps_prop,ps_prop,The actors in the blockbuster film,are,is
+Bock1992_14_ps_rc,ps_rc,The actors who directed the film,are,is
+Bock1992_14_pp_prop,pp_prop,The actors in the blockbuster films,are,is
+Bock1992_14_pp_rc,pp_rc,The actors who directed the films,are,is
+Bock1992_15_ss_prop,ss_prop,The consultant for the growing firm,is,are
+Bock1992_15_ss_rc,ss_rc,The consultant who advised the firm,is,are
+Bock1992_15_sp_prop,sp_prop,The consultant for the growing firms,is,are
+Bock1992_15_sp_rc,sp_rc,The consultant who advised the firms,is,are
+Bock1992_15_ps_prop,ps_prop,The consultants for the growing firm,are,is
+Bock1992_15_ps_rc,ps_rc,The consultants who advised the firm,are,is
+Bock1992_15_pp_prop,pp_prop,The consultants for the growing firms,are,is
+Bock1992_15_pp_rc,pp_rc,The consultants who advised the firms,are,is
+Bock1992_16_ss_prop,ss_prop,The teaching assistant for the physics lab,is,are
+Bock1992_16_ss_rc,ss_rc,The teaching assistant who prepared the lab,is,are
+Bock1992_16_sp_prop,sp_prop,The teaching assistant for the physics labs,is,are
+Bock1992_16_sp_rc,sp_rc,The teaching assistant who prepared the labs,is,are
+Bock1992_16_ps_prop,ps_prop,The teaching assistants for the physics lab,are,is
+Bock1992_16_ps_rc,ps_rc,The teaching assistants who prepared the lab,are,is
+Bock1992_16_pp_prop,pp_prop,The teaching assistants for the physics labs,are,is
+Bock1992_16_pp_rc,pp_rc,The teaching assistants who prepared the labs,are,is
+Bock1992_17_ss_prop,ss_prop,The courier with the diplomat 's message,is,are
+Bock1992_17_ss_rc,ss_rc,The courier who delivered the message,is,are
+Bock1992_17_sp_prop,sp_prop,The courier with the diplomat 's messages,is,are
+Bock1992_17_sp_rc,sp_rc,The courier who delivered the messages,is,are
+Bock1992_17_ps_prop,ps_prop,The couriers with the diplomat 's message,are,is
+Bock1992_17_ps_rc,ps_rc,The couriers who delivered the message,are,is
+Bock1992_17_pp_prop,pp_prop,The couriers with the diplomat 's messages,are,is
+Bock1992_17_pp_rc,pp_rc,The couriers who delivered the messages,are,is
+Bock1992_18_ss_prop,ss_prop,The star of the Broadway musical,is,are
+Bock1992_18_ss_rc,ss_rc,The star who revived the musical,is,are
+Bock1992_18_sp_prop,sp_prop,The star of the Broadway musicals,is,are
+Bock1992_18_sp_rc,sp_rc,The star who revived the musicals,is,are
+Bock1992_18_ps_prop,ps_prop,The stars of the Broadway musical,are,is
+Bock1992_18_ps_rc,ps_rc,The stars who revived the musical,are,is
+Bock1992_18_pp_prop,pp_prop,The stars of the Broadway musicals,are,is
+Bock1992_18_pp_rc,pp_rc,The stars who revived the musicals,are,is
+Bock1992_19_ss_prop,ss_prop,The corporation with the banking monopoly,is,are
+Bock1992_19_ss_rc,ss_rc,The corporation that dissolved the monopoly,is,are
+Bock1992_19_sp_prop,sp_prop,The corporation with the banking monopolies,is,are
+Bock1992_19_sp_rc,sp_rc,The corporation that dissolved the monopolies,is,are
+Bock1992_19_ps_prop,ps_prop,The corporations with the banking monopoly,are,is
+Bock1992_19_ps_rc,ps_rc,The corporations that dissolved the monopoly,are,is
+Bock1992_19_pp_prop,pp_prop,The corporations with the banking monopolies,are,is
+Bock1992_19_pp_rc,pp_rc,The corporations that dissolved the monopolies,are,is
+Bock1992_20_ss_prop,ss_prop,The picture of the prominent politician,is,are
+Bock1992_20_ss_rc,ss_rc,The picture that embarrassed the politician,is,are
+Bock1992_20_sp_prop,sp_prop,The picture of the prominent politicians,is,are
+Bock1992_20_sp_rc,sp_rc,The picture that embarrassed the politicians,is,are
+Bock1992_20_ps_prop,ps_prop,The pictures of the prominent politician,are,is
+Bock1992_20_ps_rc,ps_rc,The pictures that embarrassed the politician,are,is
+Bock1992_20_pp_prop,pp_prop,The pictures of the prominent politicians,are,is
+Bock1992_20_pp_rc,pp_rc,The pictures that embarrassed the politicians,are,is
+Bock1992_21_ss_prop,ss_prop,The composer of the modern opera,is,are
+Bock1992_21_ss_rc,ss_rc,The composer who rewrote the opera,is,are
+Bock1992_21_sp_prop,sp_prop,The composer of the modern operas,is,are
+Bock1992_21_sp_rc,sp_rc,The composer who rewrote the operas,is,are
+Bock1992_21_ps_prop,ps_prop,The composers of the modern opera,are,is
+Bock1992_21_ps_rc,ps_rc,The composers who rewrote the opera,are,is
+Bock1992_21_pp_prop,pp_prop,The composers of the modern operas,are,is
+Bock1992_21_pp_rc,pp_rc,The composers who rewrote the operas,are,is
+Bock1992_22_ss_prop,ss_prop,The teacher with the special education certificate,is,are
+Bock1992_22_ss_rc,ss_rc,The teacher who received the education certificate,is,are
+Bock1992_22_sp_prop,sp_prop,The teacher with the special education certificates,is,are
+Bock1992_22_sp_rc,sp_rc,The teacher who received the education certificates,is,are
+Bock1992_22_ps_prop,ps_prop,The teachers with the special education certificate,are,is
+Bock1992_22_ps_rc,ps_rc,The teachers who received the education certificate,are,is
+Bock1992_22_pp_prop,pp_prop,The teachers with the special education certificates,are,is
+Bock1992_22_pp_rc,pp_rc,The teachers who received the education certificates,are,is
+Bock1992_23_ss_prop,ss_prop,The speaker at the union meeting,is,are
+Bock1992_23_ss_rc,ss_rc,The speaker who addressed the meeting,is,are
+Bock1992_23_sp_prop,sp_prop,The speaker at the union meetings,is,are
+Bock1992_23_sp_rc,sp_rc,The speaker who addressed the meetings,is,are
+Bock1992_23_ps_prop,ps_prop,The speakers at the union meeting,are,is
+Bock1992_23_ps_rc,ps_rc,The speakers who addressed the meeting,are,is
+Bock1992_23_pp_prop,pp_prop,The speakers at the union meetings,are,is
+Bock1992_23_pp_rc,pp_rc,The speakers who addressed the meetings,are,is
+Bock1992_24_ss_prop,ss_prop,The director of the forthcoming motion picture,is,are
+Bock1992_24_ss_rc,ss_rc,The director who created the motion picture,is,are
+Bock1992_24_sp_prop,sp_prop,The director of the forthcoming motion pictures,is,are
+Bock1992_24_sp_rc,sp_rc,The director who created the motion pictures,is,are
+Bock1992_24_ps_prop,ps_prop,The directors of the forthcoming motion picture,are,is
+Bock1992_24_ps_rc,ps_rc,The directors who created the motion picture,are,is
+Bock1992_24_pp_prop,pp_prop,The directors of the forthcoming motion pictures,are,is
+Bock1992_24_pp_rc,pp_rc,The directors who created the motion pictures,are,is
+Bock1992_25_ss_prop,ss_prop,The applicant for the corporate scholarship,is,are
+Bock1992_25_ss_rc,ss_rc,The applicant who accepted the scholarship,is,are
+Bock1992_25_sp_prop,sp_prop,The applicant for the corporate scholarships,is,are
+Bock1992_25_sp_rc,sp_rc,The applicant who accepted the scholarships,is,are
+Bock1992_25_ps_prop,ps_prop,The applicants for the corporate scholarship,are,is
+Bock1992_25_ps_rc,ps_rc,The applicants who accepted the scholarship,are,is
+Bock1992_25_pp_prop,pp_prop,The applicants for the corporate scholarships,are,is
+Bock1992_25_pp_rc,pp_rc,The applicants who accepted the scholarships,are,is
+Bock1992_26_ss_prop,ss_prop,The editor of the history book,is,are
+Bock1992_26_ss_rc,ss_rc,The editor who rejected the book,is,are
+Bock1992_26_sp_prop,sp_prop,The editor of the history books,is,are
+Bock1992_26_sp_rc,sp_rc,The editor who rejected the books,is,are
+Bock1992_26_ps_prop,ps_prop,The editors of the history book,are,is
+Bock1992_26_ps_rc,ps_rc,The editors who rejected the book,are,is
+Bock1992_26_pp_prop,pp_prop,The editors of the history books,are,is
+Bock1992_26_pp_rc,pp_rc,The editors who rejected the books,are,is
+Bock1992_27_ss_prop,ss_prop,The laboratory with the analog computer,is,are
+Bock1992_27_ss_rc,ss_rc,The laboratory that invented the computer,is,are
+Bock1992_27_sp_prop,sp_prop,The laboratory with the analog computers,is,are
+Bock1992_27_sp_rc,sp_rc,The laboratory that invented the computers,is,are
+Bock1992_27_ps_prop,ps_prop,The laboratories with the analog computer,are,is
+Bock1992_27_ps_rc,ps_rc,The laboratories that invented the computer,are,is
+Bock1992_27_pp_prop,pp_prop,The laboratories with the analog computers,are,is
+Bock1992_27_pp_rc,pp_rc,The laboratories that invented the computers,are,is
+Bock1992_28_ss_prop,ss_prop,The demonstrator at the political rally,is,are
+Bock1992_28_ss_rc,ss_rc,The demonstrator that interrupted the rally,is,are
+Bock1992_28_sp_prop,sp_prop,The demonstrator at the political rallies,is,are
+Bock1992_28_sp_rc,sp_rc,The demonstrator that interrupted the rallies,is,are
+Bock1992_28_ps_prop,ps_prop,The demonstrators at the political rally,are,is
+Bock1992_28_ps_rc,ps_rc,The demonstrators that interrupted the rally,are,is
+Bock1992_28_pp_prop,pp_prop,The demonstrators at the political rallies,are,is
+Bock1992_28_pp_rc,pp_rc,The demonstrators that interrupted the rallies,are,is
+Bock1992_29_ss_prop,ss_prop,The student in the Spanish class,is,are
+Bock1992_29_ss_rc,ss_rc,The student who had failed the class,is,are
+Bock1992_29_sp_prop,sp_prop,The student in the Spanish classes,is,are
+Bock1992_29_sp_rc,sp_rc,The student who had failed the classes,is,are
+Bock1992_29_ps_prop,ps_prop,The students in the Spanish class,are,is
+Bock1992_29_ps_rc,ps_rc,The students who had failed the class,are,is
+Bock1992_29_pp_prop,pp_prop,The students in the Spanish classes,are,is
+Bock1992_29_pp_rc,pp_rc,The students who had failed the classes,are,is
+Bock1992_30_ss_prop,ss_prop,The Peace Corps volunteer in the African village,is,are
+Bock1992_30_ss_rc,ss_rc,The Peace Corps volunteer who assisted the village,is,are
+Bock1992_30_sp_prop,sp_prop,The Peace Corps volunteer in the African villages,is,are
+Bock1992_30_sp_rc,sp_rc,The Peace Corps volunteer who assisted the villages,is,are
+Bock1992_30_ps_prop,ps_prop,The Peace Corps volunteers in the African village,are,is
+Bock1992_30_ps_rc,ps_rc,The Peace Corps volunteers who assisted the village,are,is
+Bock1992_30_pp_prop,pp_prop,The Peace Corps volunteers in the African villages,are,is
+Bock1992_30_pp_rc,pp_rc,The Peace Corps volunteers who assisted the villages,are,is
+Bock1992_31_ss_prop,ss_prop,The ruler of the Roman city state,is,are
+Bock1992_31_ss_rc,ss_rc,The ruler who enslaved the city state,is,are
+Bock1992_31_sp_prop,sp_prop,The ruler of the Roman city states,is,are
+Bock1992_31_sp_rc,sp_rc,The ruler who enslaved the city states,is,are
+Bock1992_31_ps_prop,ps_prop,The rulers of the Roman city state,are,is
+Bock1992_31_ps_rc,ps_rc,The rulers who enslaved the city state,are,is
+Bock1992_31_pp_prop,pp_prop,The rulers of the Roman city states,are,is
+Bock1992_31_pp_rc,pp_rc,The rulers who enslaved the city states,are,is

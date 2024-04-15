@@ -1,0 +1,109 @@
+item,condition,sentence,target,alternative
+HumphreysBock_0_CPD,CPD,The crowd inside the subway cars,are,is
+HumphreysBock_0_CPC,CPC,The crowd outside the subway cars,are,is
+HumphreysBock_0_CSC,CSC,The crowd outside the subway car,are,is
+HumphreysBock_0_PPD,PPD,The commuters inside the subway cars,are,is
+HumphreysBock_0_PPC,PPC,The commuters outside the subway cars,are,is
+HumphreysBock_0_PSC,PSC,The commuters outside the subway car,are,is
+HumphreysBock_1_CPD,CPD,The jury in the folding chairs,are,is
+HumphreysBock_1_CPC,CPC,The jury near the folding chairs,are,is
+HumphreysBock_1_CSC,CSC,The jury near the folding chair,are,is
+HumphreysBock_1_PPD,PPD,The jurors in the folding chairs,are,is
+HumphreysBock_1_PPC,PPC,The jurors near the folding chairs,are,is
+HumphreysBock_1_PSC,PSC,The jurors near the folding chair,are,is
+HumphreysBock_2_CPD,CPD,The crew in the lifeboats,are,is
+HumphreysBock_2_CPC,CPC,The crew for the lifeboats,are,is
+HumphreysBock_2_CSC,CSC,The crew for the lifeboat,are,is
+HumphreysBock_2_PPD,PPD,The sailors in the lifeboats,are,is
+HumphreysBock_2_PPC,PPC,The sailors for the lifeboats,are,is
+HumphreysBock_2_PSC,PSC,The sailors for the lifeboat,are,is
+HumphreysBock_3_CPD,CPD,The clan in the ancient castles,are,is
+HumphreysBock_3_CPC,CPC,The clan with the ancient castles,are,is
+HumphreysBock_3_CSC,CSC,The clan with the ancient castle,are,is
+HumphreysBock_3_PPD,PPD,The princes in the ancient castles,are,is
+HumphreysBock_3_PPC,PPC,The princes with the ancient castles,are,is
+HumphreysBock_3_PSC,PSC,The princes with the ancient castle,are,is
+HumphreysBock_4_CPD,CPD,The gang on the motorcycles,are,is
+HumphreysBock_4_CPC,CPC,The gang near the motorcycles,are,is
+HumphreysBock_4_CSC,CSC,The gang near the motorcycle,are,is
+HumphreysBock_4_PPD,PPD,The delinquents on the motorcycles,are,is
+HumphreysBock_4_PPC,PPC,The delinquents near the motorcycles,are,is
+HumphreysBock_4_PSC,PSC,The delinquents near the motorcycle,are,is
+HumphreysBock_5_CPD,CPD,The hired help in the mansions,are,is
+HumphreysBock_5_CPC,CPC,The hired help from the mansions,are,is
+HumphreysBock_5_CSC,CSC,The hired help from the mansion,are,is
+HumphreysBock_5_PPD,PPD,The hired servants in the mansions,are,is
+HumphreysBock_5_PPC,PPC,The hired servants from the mansions,are,is
+HumphreysBock_5_PSC,PSC,The hired servants from the mansion,are,is
+HumphreysBock_6_CPD,CPD,The squad inside the armored vehicles,are,is
+HumphreysBock_6_CPC,CPC,The squad behind the armored vehicles,are,is
+HumphreysBock_6_CSC,CSC,The squad behind the armored vehicle,are,is
+HumphreysBock_6_PPD,PPD,The soldiers inside the armored vehicles,are,is
+HumphreysBock_6_PPC,PPC,The soldiers behind the armored vehicles,are,is
+HumphreysBock_6_PSC,PSC,The soldiers behind the armored vehicle,are,is
+HumphreysBock_7_CPD,CPD,The team in to the race cars,are,is
+HumphreysBock_7_CPC,CPC,The team close to the race cars,are,is
+HumphreysBock_7_CSC,CSC,The team close to the race car,are,is
+HumphreysBock_7_PPD,PPD,The drivers in to the race cars,are,is
+HumphreysBock_7_PPC,PPC,The drivers close to the race cars,are,is
+HumphreysBock_7_PSC,PSC,The drivers close to the race car,are,is
+HumphreysBock_8_CPD,CPD,The secretarial staff in the tiny desks,are,is
+HumphreysBock_8_CPC,CPC,The secretarial staff around the tiny desks,are,is
+HumphreysBock_8_CSC,CSC,The secretarial staff around the tiny desk,are,is
+HumphreysBock_8_PPD,PPD,The secretarial secretaries in the tiny desks,are,is
+HumphreysBock_8_PPC,PPC,The secretarial secretaries around the tiny desks,are,is
+HumphreysBock_8_PSC,PSC,The secretarial secretaries around the tiny desk,are,is
+HumphreysBock_9_CPD,CPD,The family on the new bicycles,are,is
+HumphreysBock_9_CPC,CPC,The family with the new bicycles,are,is
+HumphreysBock_9_CSC,CSC,The family with the new bicycle,are,is
+HumphreysBock_9_PPD,PPD,The sisters on the new bicycles,are,is
+HumphreysBock_9_PPC,PPC,The sisters with the new bicycles,are,is
+HumphreysBock_9_PSC,PSC,The sisters with the new bicycle,are,is
+HumphreysBock_10_CPD,CPD,The wedding party in the cars,are,is
+HumphreysBock_10_CPC,CPC,The wedding party beside the cars,are,is
+HumphreysBock_10_CSC,CSC,The wedding party beside the car,are,is
+HumphreysBock_10_PPD,PPD,The wedding celebrities in the cars,are,is
+HumphreysBock_10_PPC,PPC,The wedding celebrities beside the cars,are,is
+HumphreysBock_10_PSC,PSC,The wedding celebrities beside the car,are,is
+HumphreysBock_11_CPD,CPD,The group on to the jet skis,are,is
+HumphreysBock_11_CPC,CPC,The group next to the jet skis,are,is
+HumphreysBock_11_CSC,CSC,The group next to the jet ski,are,is
+HumphreysBock_11_PPD,PPD,The friends on to the jet skis,are,is
+HumphreysBock_11_PPC,PPC,The friends next to the jet skis,are,is
+HumphreysBock_11_PSC,PSC,The friends next to the jet ski,are,is
+HumphreysBock_12_CPD,CPD,The boy scout troop scouts inside the tents,are,is
+HumphreysBock_12_CPC,CPC,The boy scout troop scouts outside the tents,are,is
+HumphreysBock_12_CSC,CSC,The boy scout troop scouts outside the tent,are,is
+HumphreysBock_12_PPD,PPD,The boy scout boy scouts inside the tents,are,is
+HumphreysBock_12_PPC,PPC,The boy scout boy scouts outside the tents,are,is
+HumphreysBock_12_PSC,PSC,The boy scout boy scouts outside the tent,are,is
+HumphreysBock_13_CPD,CPD,The orchestra on the tour buses,are,is
+HumphreysBock_13_CPC,CPC,The orchestra by the tour buses,are,is
+HumphreysBock_13_CSC,CSC,The orchestra by the tour bus,are,is
+HumphreysBock_13_PPD,PPD,The musicians on the tour buses,are,is
+HumphreysBock_13_PPC,PPC,The musicians by the tour buses,are,is
+HumphreysBock_13_PSC,PSC,The musicians by the tour bus,are,is
+HumphreysBock_14_CPD,CPD,The audience in the luxury boxes,are,is
+HumphreysBock_14_CPC,CPC,The audience beneath the luxury boxes,are,is
+HumphreysBock_14_CSC,CSC,The audience beneath the luxury box,are,is
+HumphreysBock_14_PPD,PPD,The spectators in the luxury boxes,are,is
+HumphreysBock_14_PPC,PPC,The spectators beneath the luxury boxes,are,is
+HumphreysBock_14_PSC,PSC,The spectators beneath the luxury box,are,is
+HumphreysBock_15_CPD,CPD,The class at the lunch tables,are,is
+HumphreysBock_15_CPC,CPC,The class near the lunch tables,are,is
+HumphreysBock_15_CSC,CSC,The class near the lunch table,are,is
+HumphreysBock_15_PPD,PPD,The students at the lunch tables,are,is
+HumphreysBock_15_PPC,PPC,The students near the lunch tables,are,is
+HumphreysBock_15_PSC,PSC,The students near the lunch table,are,is
+HumphreysBock_16_CPD,CPD,The tribe inside the stone huts,are,is
+HumphreysBock_16_CPC,CPC,The tribe outside the stone huts,are,is
+HumphreysBock_16_CSC,CSC,The tribe outside the stone hut,are,is
+HumphreysBock_16_PPD,PPD,The natives inside the stone huts,are,is
+HumphreysBock_16_PPC,PPC,The natives outside the stone huts,are,is
+HumphreysBock_16_PSC,PSC,The natives outside the stone hut,are,is
+HumphreysBock_17_CPD,CPD,The posse on the horses,are,is
+HumphreysBock_17_CPC,CPC,The posse near the horses,are,is
+HumphreysBock_17_CSC,CSC,The posse near the horse,are,is
+HumphreysBock_17_PPD,PPD,The cowboys on the horses,are,is
+HumphreysBock_17_PPC,PPC,The cowboys near the horses,are,is
+HumphreysBock_17_PSC,PSC,The cowboys near the horse,are,is

@@ -1,0 +1,5472 @@
+# (S (NP (NP (DT The)(NN crowd))(PP (IN inside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The crowd inside the subway cars are
+the crowd inside the subway cars are
+The crowd inside the subway cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crowd))(PP (IN inside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The crowd inside the subway cars is
+the crowd inside the subway cars is
+The crowd inside the subway cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crowd))(PP (IN outside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The crowd outside the subway cars are
+the crowd outside the subway cars are
+The crowd outside the subway cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crowd))(PP (IN outside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The crowd outside the subway cars is
+the crowd outside the subway cars is
+The crowd outside the subway cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crowd))(PP (IN outside)(NP (DT the)(NN subway)(NN car))))(VP (VBP are)))
+DT NN IN DT NN NN VBP
+The crowd outside the subway car are
+the crowd outside the subway car are
+The crowd outside the subway car are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crowd))(PP (IN outside)(NP (DT the)(NN subway)(NN car))))(VP (VBZ is)))
+DT NN IN DT NN NN VBZ
+The crowd outside the subway car is
+the crowd outside the subway car is
+The crowd outside the subway car is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS commuters))(PP (IN inside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The commuters inside the subway cars are
+the commuters inside the subway cars are
+The commuters inside the subway cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS commuters))(PP (IN inside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The commuters inside the subway cars is
+the commuters inside the subway cars is
+The commuters inside the subway cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS commuters))(PP (IN outside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The commuters outside the subway cars are
+the commuters outside the subway cars are
+The commuters outside the subway cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS commuters))(PP (IN outside)(NP (DT the)(NN subway)(NNS cars))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The commuters outside the subway cars is
+the commuters outside the subway cars is
+The commuters outside the subway cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS commuters))(PP (IN outside)(NP (DT the)(NN subway)(NN car))))(VP (VBP are)))
+DT NNS IN DT NN NN VBP
+The commuters outside the subway car are
+the commuters outside the subway car are
+The commuters outside the subway car are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS commuters))(PP (IN outside)(NP (DT the)(NN subway)(NN car))))(VP (VBZ is)))
+DT NNS IN DT NN NN VBZ
+The commuters outside the subway car is
+the commuters outside the subway car is
+The commuters outside the subway car is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN jury))(PP (IN in)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The jury in the folding chairs are
+the jury in the folding chairs are
+The jury in the folding chairs are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN jury))(PP (IN in)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The jury in the folding chairs is
+the jury in the folding chairs is
+The jury in the folding chairs is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN jury))(PP (IN near)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The jury near the folding chairs are
+the jury near the folding chairs are
+The jury near the folding chairs are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN jury))(PP (IN near)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The jury near the folding chairs is
+the jury near the folding chairs is
+The jury near the folding chairs is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN jury))(PP (IN near)(NP (DT the)(JJ folding)(NN chair))))(VP (VBP are)))
+DT NN IN DT JJ NN VBP
+The jury near the folding chair are
+the jury near the folding chair are
+The jury near the folding chair are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN jury))(PP (IN near)(NP (DT the)(JJ folding)(NN chair))))(VP (VBZ is)))
+DT NN IN DT JJ NN VBZ
+The jury near the folding chair is
+the jury near the folding chair is
+The jury near the folding chair is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS jurors))(PP (IN in)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The jurors in the folding chairs are
+the jurors in the folding chairs are
+The jurors in the folding chairs are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS jurors))(PP (IN in)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The jurors in the folding chairs is
+the jurors in the folding chairs is
+The jurors in the folding chairs is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS jurors))(PP (IN near)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The jurors near the folding chairs are
+the jurors near the folding chairs are
+The jurors near the folding chairs are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS jurors))(PP (IN near)(NP (DT the)(JJ folding)(NNS chairs))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The jurors near the folding chairs is
+the jurors near the folding chairs is
+The jurors near the folding chairs is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS jurors))(PP (IN near)(NP (DT the)(JJ folding)(NN chair))))(VP (VBP are)))
+DT NNS IN DT JJ NN VBP
+The jurors near the folding chair are
+the jurors near the folding chair are
+The jurors near the folding chair are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS jurors))(PP (IN near)(NP (DT the)(JJ folding)(NN chair))))(VP (VBZ is)))
+DT NNS IN DT JJ NN VBZ
+The jurors near the folding chair is
+the jurors near the folding chair is
+The jurors near the folding chair is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crew))(PP (IN in)(NP (DT the)(NNS lifeboats))))(VP (VBP are)))
+DT NN IN DT NNS VBP
+The crew in the lifeboats are
+the crew in the lifeboats are
+The crew in the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crew))(PP (IN in)(NP (DT the)(NNS lifeboats))))(VP (VBZ is)))
+DT NN IN DT NNS VBZ
+The crew in the lifeboats is
+the crew in the lifeboats is
+The crew in the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crew))(PP (IN for)(NP (DT the)(NNS lifeboats))))(VP (VBP are)))
+DT NN IN DT NNS VBP
+The crew for the lifeboats are
+the crew for the lifeboats are
+The crew for the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crew))(PP (IN for)(NP (DT the)(NNS lifeboats))))(VP (VBZ is)))
+DT NN IN DT NNS VBZ
+The crew for the lifeboats is
+the crew for the lifeboats is
+The crew for the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crew))(PP (IN for)(NP (DT the)(NN lifeboat))))(VP (VBP are)))
+DT NN IN DT NN VBP
+The crew for the lifeboat are
+the crew for the lifeboat are
+The crew for the UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN crew))(PP (IN for)(NP (DT the)(NN lifeboat))))(VP (VBZ is)))
+DT NN IN DT NN VBZ
+The crew for the lifeboat is
+the crew for the lifeboat is
+The crew for the UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sailors))(PP (IN in)(NP (DT the)(NNS lifeboats))))(VP (VBP are)))
+DT NNS IN DT NNS VBP
+The sailors in the lifeboats are
+the sailors in the lifeboats are
+The sailors in the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sailors))(PP (IN in)(NP (DT the)(NNS lifeboats))))(VP (VBZ is)))
+DT NNS IN DT NNS VBZ
+The sailors in the lifeboats is
+the sailors in the lifeboats is
+The sailors in the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sailors))(PP (IN for)(NP (DT the)(NNS lifeboats))))(VP (VBP are)))
+DT NNS IN DT NNS VBP
+The sailors for the lifeboats are
+the sailors for the lifeboats are
+The sailors for the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sailors))(PP (IN for)(NP (DT the)(NNS lifeboats))))(VP (VBZ is)))
+DT NNS IN DT NNS VBZ
+The sailors for the lifeboats is
+the sailors for the lifeboats is
+The sailors for the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sailors))(PP (IN for)(NP (DT the)(NN lifeboat))))(VP (VBP are)))
+DT NNS IN DT NN VBP
+The sailors for the lifeboat are
+the sailors for the lifeboat are
+The sailors for the UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sailors))(PP (IN for)(NP (DT the)(NN lifeboat))))(VP (VBZ is)))
+DT NNS IN DT NN VBZ
+The sailors for the lifeboat is
+the sailors for the lifeboat is
+The sailors for the UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN clan))(PP (IN in)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The clan in the ancient castles are
+the clan in the ancient castles are
+The clan in the ancient UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN clan))(PP (IN in)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The clan in the ancient castles is
+the clan in the ancient castles is
+The clan in the ancient UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN clan))(PP (IN with)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The clan with the ancient castles are
+the clan with the ancient castles are
+The clan with the ancient UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN clan))(PP (IN with)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The clan with the ancient castles is
+the clan with the ancient castles is
+The clan with the ancient UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN clan))(PP (IN with)(NP (DT the)(JJ ancient)(NN castle))))(VP (VBP are)))
+DT NN IN DT JJ NN VBP
+The clan with the ancient castle are
+the clan with the ancient castle are
+The clan with the ancient castle are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN clan))(PP (IN with)(NP (DT the)(JJ ancient)(NN castle))))(VP (VBZ is)))
+DT NN IN DT JJ NN VBZ
+The clan with the ancient castle is
+the clan with the ancient castle is
+The clan with the ancient castle is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS princes))(PP (IN in)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The princes in the ancient castles are
+the princes in the ancient castles are
+The UNK-LC-s in the ancient UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS princes))(PP (IN in)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The princes in the ancient castles is
+the princes in the ancient castles is
+The UNK-LC-s in the ancient UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS princes))(PP (IN with)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The princes with the ancient castles are
+the princes with the ancient castles are
+The UNK-LC-s with the ancient UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS princes))(PP (IN with)(NP (DT the)(JJ ancient)(NNS castles))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The princes with the ancient castles is
+the princes with the ancient castles is
+The UNK-LC-s with the ancient UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS princes))(PP (IN with)(NP (DT the)(JJ ancient)(NN castle))))(VP (VBP are)))
+DT NNS IN DT JJ NN VBP
+The princes with the ancient castle are
+the princes with the ancient castle are
+The UNK-LC-s with the ancient castle are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS princes))(PP (IN with)(NP (DT the)(JJ ancient)(NN castle))))(VP (VBZ is)))
+DT NNS IN DT JJ NN VBZ
+The princes with the ancient castle is
+the princes with the ancient castle is
+The UNK-LC-s with the ancient castle is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN gang))(PP (IN on)(NP (DT the)(NNS motorcycles))))(VP (VBP are)))
+DT NN IN DT NNS VBP
+The gang on the motorcycles are
+the gang on the motorcycles are
+The gang on the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN gang))(PP (IN on)(NP (DT the)(NNS motorcycles))))(VP (VBZ is)))
+DT NN IN DT NNS VBZ
+The gang on the motorcycles is
+the gang on the motorcycles is
+The gang on the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN gang))(PP (IN near)(NP (DT the)(NNS motorcycles))))(VP (VBP are)))
+DT NN IN DT NNS VBP
+The gang near the motorcycles are
+the gang near the motorcycles are
+The gang near the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN gang))(PP (IN near)(NP (DT the)(NNS motorcycles))))(VP (VBZ is)))
+DT NN IN DT NNS VBZ
+The gang near the motorcycles is
+the gang near the motorcycles is
+The gang near the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN gang))(PP (IN near)(NP (DT the)(NN motorcycle))))(VP (VBP are)))
+DT NN IN DT NN VBP
+The gang near the motorcycle are
+the gang near the motorcycle are
+The gang near the UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN gang))(PP (IN near)(NP (DT the)(NN motorcycle))))(VP (VBZ is)))
+DT NN IN DT NN VBZ
+The gang near the motorcycle is
+the gang near the motorcycle is
+The gang near the UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS bikers))(PP (IN on)(NP (DT the)(NNS motorcycles))))(VP (VBP are)))
+DT NNS IN DT NNS VBP
+The bikers on the motorcycles are
+the bikers on the motorcycles are
+The bikers on the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS bikers))(PP (IN on)(NP (DT the)(NNS motorcycles))))(VP (VBZ is)))
+DT NNS IN DT NNS VBZ
+The bikers on the motorcycles is
+the bikers on the motorcycles is
+The bikers on the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS bikers))(PP (IN near)(NP (DT the)(NNS motorcycles))))(VP (VBP are)))
+DT NNS IN DT NNS VBP
+The bikers near the motorcycles are
+the bikers near the motorcycles are
+The bikers near the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS bikers))(PP (IN near)(NP (DT the)(NNS motorcycles))))(VP (VBZ is)))
+DT NNS IN DT NNS VBZ
+The bikers near the motorcycles is
+the bikers near the motorcycles is
+The bikers near the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS bikers))(PP (IN near)(NP (DT the)(NN motorcycle))))(VP (VBP are)))
+DT NNS IN DT NN VBP
+The bikers near the motorcycle are
+the bikers near the motorcycle are
+The bikers near the UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS bikers))(PP (IN near)(NP (DT the)(NN motorcycle))))(VP (VBZ is)))
+DT NNS IN DT NN VBZ
+The bikers near the motorcycle is
+the bikers near the motorcycle is
+The bikers near the UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NN help))(PP (IN in)(NP (DT the)(NNS mansions))))(VP (VBP are)))
+DT VBN NN IN DT NNS VBP
+The hired help in the mansions are
+the hired help in the mansions are
+The hired help in the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NN help))(PP (IN in)(NP (DT the)(NNS mansions))))(VP (VBZ is)))
+DT VBN NN IN DT NNS VBZ
+The hired help in the mansions is
+the hired help in the mansions is
+The hired help in the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NN help))(PP (IN from)(NP (DT the)(NNS mansions))))(VP (VBP are)))
+DT VBN NN IN DT NNS VBP
+The hired help from the mansions are
+the hired help from the mansions are
+The hired help from the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NN help))(PP (IN from)(NP (DT the)(NNS mansions))))(VP (VBZ is)))
+DT VBN NN IN DT NNS VBZ
+The hired help from the mansions is
+the hired help from the mansions is
+The hired help from the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NN help))(PP (IN from)(NP (DT the)(NN mansion))))(VP (VBP are)))
+DT VBN NN IN DT NN VBP
+The hired help from the mansion are
+the hired help from the mansion are
+The hired help from the mansion are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NN help))(PP (IN from)(NP (DT the)(NN mansion))))(VP (VBZ is)))
+DT VBN NN IN DT NN VBZ
+The hired help from the mansion is
+the hired help from the mansion is
+The hired help from the mansion is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NNS servants))(PP (IN in)(NP (DT the)(NNS mansions))))(VP (VBP are)))
+DT VBN NNS IN DT NNS VBP
+The hired servants in the mansions are
+the hired servants in the mansions are
+The hired servants in the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NNS servants))(PP (IN in)(NP (DT the)(NNS mansions))))(VP (VBZ is)))
+DT VBN NNS IN DT NNS VBZ
+The hired servants in the mansions is
+the hired servants in the mansions is
+The hired servants in the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NNS servants))(PP (IN from)(NP (DT the)(NNS mansions))))(VP (VBP are)))
+DT VBN NNS IN DT NNS VBP
+The hired servants from the mansions are
+the hired servants from the mansions are
+The hired servants from the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NNS servants))(PP (IN from)(NP (DT the)(NNS mansions))))(VP (VBZ is)))
+DT VBN NNS IN DT NNS VBZ
+The hired servants from the mansions is
+the hired servants from the mansions is
+The hired servants from the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NNS servants))(PP (IN from)(NP (DT the)(NN mansion))))(VP (VBP are)))
+DT VBN NNS IN DT NN VBP
+The hired servants from the mansion are
+the hired servants from the mansion are
+The hired servants from the mansion are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(VBN hired)(NNS servants))(PP (IN from)(NP (DT the)(NN mansion))))(VP (VBZ is)))
+DT VBN NNS IN DT NN VBZ
+The hired servants from the mansion is
+the hired servants from the mansion is
+The hired servants from the mansion is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN squad))(PP (IN inside)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The squad inside the armored vehicles are
+the squad inside the armored vehicles are
+The squad inside the armored vehicles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN squad))(PP (IN inside)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The squad inside the armored vehicles is
+the squad inside the armored vehicles is
+The squad inside the armored vehicles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN squad))(PP (IN behind)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The squad behind the armored vehicles are
+the squad behind the armored vehicles are
+The squad behind the armored vehicles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN squad))(PP (IN behind)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The squad behind the armored vehicles is
+the squad behind the armored vehicles is
+The squad behind the armored vehicles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN squad))(PP (IN behind)(NP (DT the)(JJ armored)(NN vehicle))))(VP (VBP are)))
+DT NN IN DT JJ NN VBP
+The squad behind the armored vehicle are
+the squad behind the armored vehicle are
+The squad behind the armored vehicle are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN squad))(PP (IN behind)(NP (DT the)(JJ armored)(NN vehicle))))(VP (VBZ is)))
+DT NN IN DT JJ NN VBZ
+The squad behind the armored vehicle is
+the squad behind the armored vehicle is
+The squad behind the armored vehicle is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS soldiers))(PP (IN inside)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The soldiers inside the armored vehicles are
+the soldiers inside the armored vehicles are
+The soldiers inside the armored vehicles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS soldiers))(PP (IN inside)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The soldiers inside the armored vehicles is
+the soldiers inside the armored vehicles is
+The soldiers inside the armored vehicles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS soldiers))(PP (IN behind)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The soldiers behind the armored vehicles are
+the soldiers behind the armored vehicles are
+The soldiers behind the armored vehicles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS soldiers))(PP (IN behind)(NP (DT the)(JJ armored)(NNS vehicles))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The soldiers behind the armored vehicles is
+the soldiers behind the armored vehicles is
+The soldiers behind the armored vehicles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS soldiers))(PP (IN behind)(NP (DT the)(JJ armored)(NN vehicle))))(VP (VBP are)))
+DT NNS IN DT JJ NN VBP
+The soldiers behind the armored vehicle are
+the soldiers behind the armored vehicle are
+The soldiers behind the armored vehicle are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS soldiers))(PP (IN behind)(NP (DT the)(JJ armored)(NN vehicle))))(VP (VBZ is)))
+DT NNS IN DT JJ NN VBZ
+The soldiers behind the armored vehicle is
+the soldiers behind the armored vehicle is
+The soldiers behind the armored vehicle is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN team))(PP (IN in)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBP are)))
+DT NN IN TO DT NN NNS VBP
+The team in to the race cars are
+the team in to the race cars are
+The team in to the race cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN team))(PP (IN in)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBZ is)))
+DT NN IN TO DT NN NNS VBZ
+The team in to the race cars is
+the team in to the race cars is
+The team in to the race cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN team))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBP are)))
+DT NN RB TO DT NN NNS VBP
+The team close to the race cars are
+the team close to the race cars are
+The team close to the race cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN team))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBZ is)))
+DT NN RB TO DT NN NNS VBZ
+The team close to the race cars is
+the team close to the race cars is
+The team close to the race cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN team))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NN car)))))(VP (VBP are)))
+DT NN RB TO DT NN NN VBP
+The team close to the race car are
+the team close to the race car are
+The team close to the race car are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN team))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NN car)))))(VP (VBZ is)))
+DT NN RB TO DT NN NN VBZ
+The team close to the race car is
+the team close to the race car is
+The team close to the race car is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS drivers))(PP (IN in)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBP are)))
+DT NNS IN TO DT NN NNS VBP
+The drivers in to the race cars are
+the drivers in to the race cars are
+The drivers in to the race cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS drivers))(PP (IN in)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBZ is)))
+DT NNS IN TO DT NN NNS VBZ
+The drivers in to the race cars is
+the drivers in to the race cars is
+The drivers in to the race cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS drivers))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBP are)))
+DT NNS RB TO DT NN NNS VBP
+The drivers close to the race cars are
+the drivers close to the race cars are
+The drivers close to the race cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS drivers))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NNS cars)))))(VP (VBZ is)))
+DT NNS RB TO DT NN NNS VBZ
+The drivers close to the race cars is
+the drivers close to the race cars is
+The drivers close to the race cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS drivers))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NN car)))))(VP (VBP are)))
+DT NNS RB TO DT NN NN VBP
+The drivers close to the race car are
+the drivers close to the race car are
+The drivers close to the race car are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS drivers))(ADVP (RB close)(PP (TO to)(NP (DT the)(NN race)(NN car)))))(VP (VBZ is)))
+DT NNS RB TO DT NN NN VBZ
+The drivers close to the race car is
+the drivers close to the race car is
+The drivers close to the race car is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NN staff))(PP (IN in)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBP are)))
+DT JJ NN IN DT JJ NNS VBP
+The secretarial staff in the tiny desks are
+the secretarial staff in the tiny desks are
+The UNK-LC-al staff in the tiny desks are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NN staff))(PP (IN in)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBZ is)))
+DT JJ NN IN DT JJ NNS VBZ
+The secretarial staff in the tiny desks is
+the secretarial staff in the tiny desks is
+The UNK-LC-al staff in the tiny desks is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NN staff))(PP (IN around)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBP are)))
+DT JJ NN IN DT JJ NNS VBP
+The secretarial staff around the tiny desks are
+the secretarial staff around the tiny desks are
+The UNK-LC-al staff around the tiny desks are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NN staff))(PP (IN around)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBZ is)))
+DT JJ NN IN DT JJ NNS VBZ
+The secretarial staff around the tiny desks is
+the secretarial staff around the tiny desks is
+The UNK-LC-al staff around the tiny desks is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NN staff))(PP (IN around)(NP (DT the)(JJ tiny)(NN desk))))(VP (VBP are)))
+DT JJ NN IN DT JJ NN VBP
+The secretarial staff around the tiny desk are
+the secretarial staff around the tiny desk are
+The UNK-LC-al staff around the tiny desk are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NN staff))(PP (IN around)(NP (DT the)(JJ tiny)(NN desk))))(VP (VBZ is)))
+DT JJ NN IN DT JJ NN VBZ
+The secretarial staff around the tiny desk is
+the secretarial staff around the tiny desk is
+The UNK-LC-al staff around the tiny desk is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NNS secretaries))(PP (IN in)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBP are)))
+DT JJ NNS IN DT JJ NNS VBP
+The secretarial secretaries in the tiny desks are
+the secretarial secretaries in the tiny desks are
+The UNK-LC-al secretaries in the tiny desks are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NNS secretaries))(PP (IN in)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBZ is)))
+DT JJ NNS IN DT JJ NNS VBZ
+The secretarial secretaries in the tiny desks is
+the secretarial secretaries in the tiny desks is
+The UNK-LC-al secretaries in the tiny desks is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NNS secretaries))(PP (IN around)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBP are)))
+DT JJ NNS IN DT JJ NNS VBP
+The secretarial secretaries around the tiny desks are
+the secretarial secretaries around the tiny desks are
+The UNK-LC-al secretaries around the tiny desks are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NNS secretaries))(PP (IN around)(NP (DT the)(JJ tiny)(NNS desks))))(VP (VBZ is)))
+DT JJ NNS IN DT JJ NNS VBZ
+The secretarial secretaries around the tiny desks is
+the secretarial secretaries around the tiny desks is
+The UNK-LC-al secretaries around the tiny desks is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NNS secretaries))(PP (IN around)(NP (DT the)(JJ tiny)(NN desk))))(VP (VBP are)))
+DT JJ NNS IN DT JJ NN VBP
+The secretarial secretaries around the tiny desk are
+the secretarial secretaries around the tiny desk are
+The UNK-LC-al secretaries around the tiny desk are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(JJ secretarial)(NNS secretaries))(PP (IN around)(NP (DT the)(JJ tiny)(NN desk))))(VP (VBZ is)))
+DT JJ NNS IN DT JJ NN VBZ
+The secretarial secretaries around the tiny desk is
+the secretarial secretaries around the tiny desk is
+The UNK-LC-al secretaries around the tiny desk is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN family))(PP (IN on)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The family on the new bicycles are
+the family on the new bicycles are
+The family on the new bicycles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN family))(PP (IN on)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The family on the new bicycles is
+the family on the new bicycles is
+The family on the new bicycles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN family))(PP (IN with)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBP are)))
+DT NN IN DT JJ NNS VBP
+The family with the new bicycles are
+the family with the new bicycles are
+The family with the new bicycles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN family))(PP (IN with)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBZ is)))
+DT NN IN DT JJ NNS VBZ
+The family with the new bicycles is
+the family with the new bicycles is
+The family with the new bicycles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN family))(PP (IN with)(NP (DT the)(JJ new)(NN bicycle))))(VP (VBP are)))
+DT NN IN DT JJ NN VBP
+The family with the new bicycle are
+the family with the new bicycle are
+The family with the new bicycle are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN family))(PP (IN with)(NP (DT the)(JJ new)(NN bicycle))))(VP (VBZ is)))
+DT NN IN DT JJ NN VBZ
+The family with the new bicycle is
+the family with the new bicycle is
+The family with the new bicycle is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sisters))(PP (IN on)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The sisters on the new bicycles are
+the sisters on the new bicycles are
+The UNK-LC-s on the new bicycles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sisters))(PP (IN on)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The sisters on the new bicycles is
+the sisters on the new bicycles is
+The UNK-LC-s on the new bicycles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sisters))(PP (IN with)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBP are)))
+DT NNS IN DT JJ NNS VBP
+The sisters with the new bicycles are
+the sisters with the new bicycles are
+The UNK-LC-s with the new bicycles are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sisters))(PP (IN with)(NP (DT the)(JJ new)(NNS bicycles))))(VP (VBZ is)))
+DT NNS IN DT JJ NNS VBZ
+The sisters with the new bicycles is
+the sisters with the new bicycles is
+The UNK-LC-s with the new bicycles is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sisters))(PP (IN with)(NP (DT the)(JJ new)(NN bicycle))))(VP (VBP are)))
+DT NNS IN DT JJ NN VBP
+The sisters with the new bicycle are
+the sisters with the new bicycle are
+The UNK-LC-s with the new bicycle are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS sisters))(PP (IN with)(NP (DT the)(JJ new)(NN bicycle))))(VP (VBZ is)))
+DT NNS IN DT JJ NN VBZ
+The sisters with the new bicycle is
+the sisters with the new bicycle is
+The UNK-LC-s with the new bicycle is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NN party))(PP (IN in)(NP (DT the)(NNS cars))))(VP (VBP are)))
+DT NN NN IN DT NNS VBP
+The wedding party in the cars are
+the wedding party in the cars are
+The UNK-LC-ing party in the cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NN party))(PP (IN in)(NP (DT the)(NNS cars))))(VP (VBZ is)))
+DT NN NN IN DT NNS VBZ
+The wedding party in the cars is
+the wedding party in the cars is
+The UNK-LC-ing party in the cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NN party))(PP (IN beside)(NP (DT the)(NNS cars))))(VP (VBP are)))
+DT NN NN IN DT NNS VBP
+The wedding party beside the cars are
+the wedding party beside the cars are
+The UNK-LC-ing party beside the cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NN party))(PP (IN beside)(NP (DT the)(NNS cars))))(VP (VBZ is)))
+DT NN NN IN DT NNS VBZ
+The wedding party beside the cars is
+the wedding party beside the cars is
+The UNK-LC-ing party beside the cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NN party))(PP (IN beside)(NP (DT the)(NN car))))(VP (VBP are)))
+DT NN NN IN DT NN VBP
+The wedding party beside the car are
+the wedding party beside the car are
+The UNK-LC-ing party beside the car are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NN party))(PP (IN beside)(NP (DT the)(NN car))))(VP (VBZ is)))
+DT NN NN IN DT NN VBZ
+The wedding party beside the car is
+the wedding party beside the car is
+The UNK-LC-ing party beside the car is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NNS celebrities))(PP (IN in)(NP (DT the)(NNS cars))))(VP (VBP are)))
+DT NN NNS IN DT NNS VBP
+The wedding celebrities in the cars are
+the wedding celebrities in the cars are
+The UNK-LC-ing UNK-LC-s in the cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NNS celebrities))(PP (IN in)(NP (DT the)(NNS cars))))(VP (VBZ is)))
+DT NN NNS IN DT NNS VBZ
+The wedding celebrities in the cars is
+the wedding celebrities in the cars is
+The UNK-LC-ing UNK-LC-s in the cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NNS celebrities))(PP (IN beside)(NP (DT the)(NNS cars))))(VP (VBP are)))
+DT NN NNS IN DT NNS VBP
+The wedding celebrities beside the cars are
+the wedding celebrities beside the cars are
+The UNK-LC-ing UNK-LC-s beside the cars are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NNS celebrities))(PP (IN beside)(NP (DT the)(NNS cars))))(VP (VBZ is)))
+DT NN NNS IN DT NNS VBZ
+The wedding celebrities beside the cars is
+the wedding celebrities beside the cars is
+The UNK-LC-ing UNK-LC-s beside the cars is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NNS celebrities))(PP (IN beside)(NP (DT the)(NN car))))(VP (VBP are)))
+DT NN NNS IN DT NN VBP
+The wedding celebrities beside the car are
+the wedding celebrities beside the car are
+The UNK-LC-ing UNK-LC-s beside the car are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN wedding)(NNS celebrities))(PP (IN beside)(NP (DT the)(NN car))))(VP (VBZ is)))
+DT NN NNS IN DT NN VBZ
+The wedding celebrities beside the car is
+the wedding celebrities beside the car is
+The UNK-LC-ing UNK-LC-s beside the car is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN group))(PP (IN on)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBP are)))
+DT NN IN TO DT NN NNS VBP
+The group on to the jet skis are
+the group on to the jet skis are
+The group on to the jet skis are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN group))(PP (IN on)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBZ is)))
+DT NN IN TO DT NN NNS VBZ
+The group on to the jet skis is
+the group on to the jet skis is
+The group on to the jet skis is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN group))(ADVP (JJ next)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBP are)))
+DT NN JJ TO DT NN NNS VBP
+The group next to the jet skis are
+the group next to the jet skis are
+The group next to the jet skis are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN group))(ADVP (JJ next)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBZ is)))
+DT NN JJ TO DT NN NNS VBZ
+The group next to the jet skis is
+the group next to the jet skis is
+The group next to the jet skis is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN group))(ADVP (JJ next)(PP (TO to)(NP (DT the)(NN jet)(NN ski)))))(VP (VBP are)))
+DT NN JJ TO DT NN NN VBP
+The group next to the jet ski are
+the group next to the jet ski are
+The group next to the jet ski are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN group))(ADVP (JJ next)(PP (TO to)(NP (DT the)(NN jet)(NN ski)))))(VP (VBZ is)))
+DT NN JJ TO DT NN NN VBZ
+The group next to the jet ski is
+the group next to the jet ski is
+The group next to the jet ski is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(ADVP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS friends))(PP (IN on)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBP are)))
+DT NNS IN TO DT NN NNS VBP
+The friends on to the jet skis are
+the friends on to the jet skis are
+The friends on to the jet skis are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS friends))(PP (IN on)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBZ is)))
+DT NNS IN TO DT NN NNS VBZ
+The friends on to the jet skis is
+the friends on to the jet skis is
+The friends on to the jet skis is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS friends))(PP (IN next)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBP are)))
+DT NNS IN TO DT NN NNS VBP
+The friends next to the jet skis are
+the friends next to the jet skis are
+The friends next to the jet skis are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS friends))(PP (IN next)(PP (TO to)(NP (DT the)(NN jet)(NNS skis)))))(VP (VBZ is)))
+DT NNS IN TO DT NN NNS VBZ
+The friends next to the jet skis is
+the friends next to the jet skis is
+The friends next to the jet skis is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS friends))(PP (IN next)(PP (TO to)(NP (DT the)(NN jet)(NN ski)))))(VP (VBP are)))
+DT NNS IN TO DT NN NN VBP
+The friends next to the jet ski are
+the friends next to the jet ski are
+The friends next to the jet ski are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS friends))(PP (IN next)(PP (TO to)(NP (DT the)(NN jet)(NN ski)))))(VP (VBZ is)))
+DT NNS IN TO DT NN NN VBZ
+The friends next to the jet ski is
+the friends next to the jet ski is
+The friends next to the jet ski is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN troop)(NNS scouts))(PP (IN inside)(NP (DT the)(NNS tents))))(VP (VBP are)))
+DT NN NN NN NNS IN DT NNS VBP
+The boy scout troop scouts inside the tents are
+the boy scout troop scouts inside the tents are
+The boy scout troop UNK-LC-s inside the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN troop)(NNS scouts))(PP (IN inside)(NP (DT the)(NNS tents))))(VP (VBZ is)))
+DT NN NN NN NNS IN DT NNS VBZ
+The boy scout troop scouts inside the tents is
+the boy scout troop scouts inside the tents is
+The boy scout troop UNK-LC-s inside the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN troop)(NNS scouts))(PP (IN outside)(NP (DT the)(NNS tents))))(VP (VBP are)))
+DT NN NN NN NNS IN DT NNS VBP
+The boy scout troop scouts outside the tents are
+the boy scout troop scouts outside the tents are
+The boy scout troop UNK-LC-s outside the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN troop)(NNS scouts))(PP (IN outside)(NP (DT the)(NNS tents))))(VP (VBZ is)))
+DT NN NN NN NNS IN DT NNS VBZ
+The boy scout troop scouts outside the tents is
+the boy scout troop scouts outside the tents is
+The boy scout troop UNK-LC-s outside the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN troop)(NNS scouts))(PP (IN outside)(NP (DT the)(NN tent))))(VP (VBP are)))
+DT NN NN NN NNS IN DT NN VBP
+The boy scout troop scouts outside the tent are
+the boy scout troop scouts outside the tent are
+The boy scout troop UNK-LC-s outside the UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN troop)(NNS scouts))(PP (IN outside)(NP (DT the)(NN tent))))(VP (VBZ is)))
+DT NN NN NN NNS IN DT NN VBZ
+The boy scout troop scouts outside the tent is
+the boy scout troop scouts outside the tent is
+The boy scout troop UNK-LC-s outside the UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN boy)(NNS scouts))(PP (IN inside)(NP (DT the)(NNS tents))))(VP (VBP are)))
+DT NN NN NN NNS IN DT NNS VBP
+The boy scout boy scouts inside the tents are
+the boy scout boy scouts inside the tents are
+The boy scout boy UNK-LC-s inside the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN boy)(NNS scouts))(PP (IN inside)(NP (DT the)(NNS tents))))(VP (VBZ is)))
+DT NN NN NN NNS IN DT NNS VBZ
+The boy scout boy scouts inside the tents is
+the boy scout boy scouts inside the tents is
+The boy scout boy UNK-LC-s inside the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN boy)(NNS scouts))(PP (IN outside)(NP (DT the)(NNS tents))))(VP (VBP are)))
+DT NN NN NN NNS IN DT NNS VBP
+The boy scout boy scouts outside the tents are
+the boy scout boy scouts outside the tents are
+The boy scout boy UNK-LC-s outside the UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN boy)(NNS scouts))(PP (IN outside)(NP (DT the)(NNS tents))))(VP (VBZ is)))
+DT NN NN NN NNS IN DT NNS VBZ
+The boy scout boy scouts outside the tents is
+the boy scout boy scouts outside the tents is
+The boy scout boy UNK-LC-s outside the UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN boy)(NNS scouts))(PP (IN outside)(NP (DT the)(NN tent))))(VP (VBP are)))
+DT NN NN NN NNS IN DT NN VBP
+The boy scout boy scouts outside the tent are
+the boy scout boy scouts outside the tent are
+The boy scout boy UNK-LC-s outside the UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN boy)(NN scout)(NN boy)(NNS scouts))(PP (IN outside)(NP (DT the)(NN tent))))(VP (VBZ is)))
+DT NN NN NN NNS IN DT NN VBZ
+The boy scout boy scouts outside the tent is
+the boy scout boy scouts outside the tent is
+The boy scout boy UNK-LC-s outside the UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN orchestra))(PP (IN on)(NP (DT the)(NN tour)(NNS buses))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The orchestra on the tour buses are
+the orchestra on the tour buses are
+The orchestra on the tour buses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN orchestra))(PP (IN on)(NP (DT the)(NN tour)(NNS buses))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The orchestra on the tour buses is
+the orchestra on the tour buses is
+The orchestra on the tour buses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN orchestra))(PP (IN by)(NP (DT the)(NN tour)(NNS buses))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The orchestra by the tour buses are
+the orchestra by the tour buses are
+The orchestra by the tour buses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN orchestra))(PP (IN by)(NP (DT the)(NN tour)(NNS buses))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The orchestra by the tour buses is
+the orchestra by the tour buses is
+The orchestra by the tour buses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN orchestra))(PP (IN by)(NP (DT the)(NN tour)(NN bus))))(VP (VBP are)))
+DT NN IN DT NN NN VBP
+The orchestra by the tour bus are
+the orchestra by the tour bus are
+The orchestra by the tour bus are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN orchestra))(PP (IN by)(NP (DT the)(NN tour)(NN bus))))(VP (VBZ is)))
+DT NN IN DT NN NN VBZ
+The orchestra by the tour bus is
+the orchestra by the tour bus is
+The orchestra by the tour bus is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS musicians))(PP (IN on)(NP (DT the)(NN tour)(NNS buses))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The musicians on the tour buses are
+the musicians on the tour buses are
+The musicians on the tour buses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS musicians))(PP (IN on)(NP (DT the)(NN tour)(NNS buses))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The musicians on the tour buses is
+the musicians on the tour buses is
+The musicians on the tour buses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS musicians))(PP (IN by)(NP (DT the)(NN tour)(NNS buses))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The musicians by the tour buses are
+the musicians by the tour buses are
+The musicians by the tour buses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS musicians))(PP (IN by)(NP (DT the)(NN tour)(NNS buses))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The musicians by the tour buses is
+the musicians by the tour buses is
+The musicians by the tour buses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS musicians))(PP (IN by)(NP (DT the)(NN tour)(NN bus))))(VP (VBP are)))
+DT NNS IN DT NN NN VBP
+The musicians by the tour bus are
+the musicians by the tour bus are
+The musicians by the tour bus are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS musicians))(PP (IN by)(NP (DT the)(NN tour)(NN bus))))(VP (VBZ is)))
+DT NNS IN DT NN NN VBZ
+The musicians by the tour bus is
+the musicians by the tour bus is
+The musicians by the tour bus is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN audience))(PP (IN in)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The audience in the luxury boxes are
+the audience in the luxury boxes are
+The audience in the luxury boxes are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN audience))(PP (IN in)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The audience in the luxury boxes is
+the audience in the luxury boxes is
+The audience in the luxury boxes is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN audience))(PP (IN beneath)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The audience beneath the luxury boxes are
+the audience beneath the luxury boxes are
+The audience beneath the luxury boxes are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN audience))(PP (IN beneath)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The audience beneath the luxury boxes is
+the audience beneath the luxury boxes is
+The audience beneath the luxury boxes is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN audience))(PP (IN beneath)(NP (DT the)(NN luxury)(NN box))))(VP (VBP are)))
+DT NN IN DT NN NN VBP
+The audience beneath the luxury box are
+the audience beneath the luxury box are
+The audience beneath the luxury box are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN audience))(PP (IN beneath)(NP (DT the)(NN luxury)(NN box))))(VP (VBZ is)))
+DT NN IN DT NN NN VBZ
+The audience beneath the luxury box is
+the audience beneath the luxury box is
+The audience beneath the luxury box is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS spectators))(PP (IN in)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The spectators in the luxury boxes are
+the spectators in the luxury boxes are
+The spectators in the luxury boxes are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS spectators))(PP (IN in)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The spectators in the luxury boxes is
+the spectators in the luxury boxes is
+The spectators in the luxury boxes is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS spectators))(PP (IN beneath)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The spectators beneath the luxury boxes are
+the spectators beneath the luxury boxes are
+The spectators beneath the luxury boxes are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS spectators))(PP (IN beneath)(NP (DT the)(NN luxury)(NNS boxes))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The spectators beneath the luxury boxes is
+the spectators beneath the luxury boxes is
+The spectators beneath the luxury boxes is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS spectators))(PP (IN beneath)(NP (DT the)(NN luxury)(NN box))))(VP (VBP are)))
+DT NNS IN DT NN NN VBP
+The spectators beneath the luxury box are
+the spectators beneath the luxury box are
+The spectators beneath the luxury box are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS spectators))(PP (IN beneath)(NP (DT the)(NN luxury)(NN box))))(VP (VBZ is)))
+DT NNS IN DT NN NN VBZ
+The spectators beneath the luxury box is
+the spectators beneath the luxury box is
+The spectators beneath the luxury box is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN class))(PP (IN at)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The class at the lunch tables are
+the class at the lunch tables are
+The class at the lunch tables are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN class))(PP (IN at)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The class at the lunch tables is
+the class at the lunch tables is
+The class at the lunch tables is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN class))(PP (IN near)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The class near the lunch tables are
+the class near the lunch tables are
+The class near the lunch tables are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN class))(PP (IN near)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The class near the lunch tables is
+the class near the lunch tables is
+The class near the lunch tables is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN class))(PP (IN near)(NP (DT the)(NN lunch)(NN table))))(VP (VBP are)))
+DT NN IN DT NN NN VBP
+The class near the lunch table are
+the class near the lunch table are
+The class near the lunch table are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN class))(PP (IN near)(NP (DT the)(NN lunch)(NN table))))(VP (VBZ is)))
+DT NN IN DT NN NN VBZ
+The class near the lunch table is
+the class near the lunch table is
+The class near the lunch table is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS students))(PP (IN at)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The students at the lunch tables are
+the students at the lunch tables are
+The students at the lunch tables are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS students))(PP (IN at)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The students at the lunch tables is
+the students at the lunch tables is
+The students at the lunch tables is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS students))(PP (IN near)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The students near the lunch tables are
+the students near the lunch tables are
+The students near the lunch tables are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS students))(PP (IN near)(NP (DT the)(NN lunch)(NNS tables))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The students near the lunch tables is
+the students near the lunch tables is
+The students near the lunch tables is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS students))(PP (IN near)(NP (DT the)(NN lunch)(NN table))))(VP (VBP are)))
+DT NNS IN DT NN NN VBP
+The students near the lunch table are
+the students near the lunch table are
+The students near the lunch table are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS students))(PP (IN near)(NP (DT the)(NN lunch)(NN table))))(VP (VBZ is)))
+DT NNS IN DT NN NN VBZ
+The students near the lunch table is
+the students near the lunch table is
+The students near the lunch table is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN tribe))(PP (IN inside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The tribe inside the stone huts are
+the tribe inside the stone huts are
+The tribe inside the stone UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN tribe))(PP (IN inside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The tribe inside the stone huts is
+the tribe inside the stone huts is
+The tribe inside the stone UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN tribe))(PP (IN outside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBP are)))
+DT NN IN DT NN NNS VBP
+The tribe outside the stone huts are
+the tribe outside the stone huts are
+The tribe outside the stone UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN tribe))(PP (IN outside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBZ is)))
+DT NN IN DT NN NNS VBZ
+The tribe outside the stone huts is
+the tribe outside the stone huts is
+The tribe outside the stone UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN tribe))(PP (IN outside)(NP (DT the)(NN stone)(NN hut))))(VP (VBP are)))
+DT NN IN DT NN NN VBP
+The tribe outside the stone hut are
+the tribe outside the stone hut are
+The tribe outside the stone UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN tribe))(PP (IN outside)(NP (DT the)(NN stone)(NN hut))))(VP (VBZ is)))
+DT NN IN DT NN NN VBZ
+The tribe outside the stone hut is
+the tribe outside the stone hut is
+The tribe outside the stone UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS natives))(PP (IN inside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The natives inside the stone huts are
+the natives inside the stone huts are
+The UNK-LC-s inside the stone UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS natives))(PP (IN inside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The natives inside the stone huts is
+the natives inside the stone huts is
+The UNK-LC-s inside the stone UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS natives))(PP (IN outside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBP are)))
+DT NNS IN DT NN NNS VBP
+The natives outside the stone huts are
+the natives outside the stone huts are
+The UNK-LC-s outside the stone UNK-LC-s are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS natives))(PP (IN outside)(NP (DT the)(NN stone)(NNS huts))))(VP (VBZ is)))
+DT NNS IN DT NN NNS VBZ
+The natives outside the stone huts is
+the natives outside the stone huts is
+The UNK-LC-s outside the stone UNK-LC-s is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS natives))(PP (IN outside)(NP (DT the)(NN stone)(NN hut))))(VP (VBP are)))
+DT NNS IN DT NN NN VBP
+The natives outside the stone hut are
+the natives outside the stone hut are
+The UNK-LC-s outside the stone UNK-LC are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS natives))(PP (IN outside)(NP (DT the)(NN stone)(NN hut))))(VP (VBZ is)))
+DT NNS IN DT NN NN VBZ
+The natives outside the stone hut is
+the natives outside the stone hut is
+The UNK-LC-s outside the stone UNK-LC is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN posse))(PP (IN on)(NP (DT the)(NNS horses))))(VP (VBP are)))
+DT NN IN DT NNS VBP
+The posse on the horses are
+the posse on the horses are
+The UNK-LC on the horses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN posse))(PP (IN on)(NP (DT the)(NNS horses))))(VP (VBZ is)))
+DT NN IN DT NNS VBZ
+The posse on the horses is
+the posse on the horses is
+The UNK-LC on the horses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN posse))(PP (IN near)(NP (DT the)(NNS horses))))(VP (VBP are)))
+DT NN IN DT NNS VBP
+The posse near the horses are
+the posse near the horses are
+The UNK-LC near the horses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN posse))(PP (IN near)(NP (DT the)(NNS horses))))(VP (VBZ is)))
+DT NN IN DT NNS VBZ
+The posse near the horses is
+the posse near the horses is
+The UNK-LC near the horses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN posse))(PP (IN near)(NP (DT the)(NN horse))))(VP (VBP are)))
+DT NN IN DT NN VBP
+The posse near the horse are
+the posse near the horse are
+The UNK-LC near the horse are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NN posse))(PP (IN near)(NP (DT the)(NN horse))))(VP (VBZ is)))
+DT NN IN DT NN VBZ
+The posse near the horse is
+the posse near the horse is
+The UNK-LC near the horse is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS cowboys))(PP (IN on)(NP (DT the)(NNS horses))))(VP (VBP are)))
+DT NNS IN DT NNS VBP
+The cowboys on the horses are
+the cowboys on the horses are
+The cowboys on the horses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS cowboys))(PP (IN on)(NP (DT the)(NNS horses))))(VP (VBZ is)))
+DT NNS IN DT NNS VBZ
+The cowboys on the horses is
+the cowboys on the horses is
+The cowboys on the horses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS cowboys))(PP (IN near)(NP (DT the)(NNS horses))))(VP (VBP are)))
+DT NNS IN DT NNS VBP
+The cowboys near the horses are
+the cowboys near the horses are
+The cowboys near the horses are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS cowboys))(PP (IN near)(NP (DT the)(NNS horses))))(VP (VBZ is)))
+DT NNS IN DT NNS VBZ
+The cowboys near the horses is
+the cowboys near the horses is
+The cowboys near the horses is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS cowboys))(PP (IN near)(NP (DT the)(NN horse))))(VP (VBP are)))
+DT NNS IN DT NN VBP
+The cowboys near the horse are
+the cowboys near the horse are
+The cowboys near the horse are
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+
+# (S (NP (NP (DT The)(NNS cowboys))(PP (IN near)(NP (DT the)(NN horse))))(VP (VBZ is)))
+DT NNS IN DT NN VBZ
+The cowboys near the horse is
+the cowboys near the horse is
+The cowboys near the horse is
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+

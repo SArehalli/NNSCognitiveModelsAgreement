@@ -1,0 +1,81 @@
+item,condition,sentence,target,alternative
+HaskellMacDonald_0_SP,SP,Can you ask Brenda if the girl or the boys,are,is
+HaskellMacDonald_0_PS,PS,Can you ask Brenda if the girls or the boy,are,is
+HaskellMacDonald_1_SP,SP,Do you know if the tiger or the lions,were,was
+HaskellMacDonald_1_PS,PS,Do you know if the tigers or the lion,were,was
+HaskellMacDonald_2_SP,SP,Do you think the pickle or the olives,are,is
+HaskellMacDonald_2_PS,PS,Do you think the pickles or the olive,are,is
+HaskellMacDonald_3_SP,SP,Have you heard whether the swimmer or the runners,are,is
+HaskellMacDonald_3_PS,PS,Have you heard whether the swimmers or the runner,are,is
+HaskellMacDonald_4_SP,SP,How do I know if the stove or the refrigerators,are,is
+HaskellMacDonald_4_PS,PS,How do I know if the stoves or the refrigerator,are,is
+HaskellMacDonald_5_SP,SP,I can't tell whether the nurse or the doctors,are,is
+HaskellMacDonald_5_PS,PS,I can't tell whether the nurses or the doctor,are,is
+HaskellMacDonald_6_SP,SP,Do the directions say if the store or the restaurants,are,is
+HaskellMacDonald_6_PS,PS,Do the directions say if the stores or the restaurant,are,is
+HaskellMacDonald_7_SP,SP,We need to know if the necklace or the rings,were,was
+HaskellMacDonald_7_PS,PS,We need to know if the necklaces or the ring,were,was
+HaskellMacDonald_8_SP,SP,I want to know if the sheet or the blankets,are,is
+HaskellMacDonald_8_PS,PS,I want to know if the sheets or the blanket,are,is
+HaskellMacDonald_9_SP,SP,I need to know if the table or the benches,are,is
+HaskellMacDonald_9_PS,PS,I need to know if the tables or the bench,are,is
+HaskellMacDonald_10_SP,SP,Maria probably knows if the photograph or the paintings,are,is
+HaskellMacDonald_10_PS,PS,Maria probably knows if the photographs or the painting,are,is
+HaskellMacDonald_11_SP,SP,It didn't matter to me if the magazine or the books,were,was
+HaskellMacDonald_11_PS,PS,It didn't matter to me if the magazines or the book,were,was
+HaskellMacDonald_12_SP,SP,It is hard to tell whether the miner or the truckers,are,is
+HaskellMacDonald_12_PS,PS,It is hard to tell whether the miners or the trucker,are,is
+HaskellMacDonald_13_SP,SP,Ask Ronnie if the ruby or the diamonds,are,is
+HaskellMacDonald_13_PS,PS,Ask Ronnie if the rubies or the diamond,are,is
+HaskellMacDonald_14_SP,SP,I wonder if the bee or the flies,are,is
+HaskellMacDonald_14_PS,PS,I wonder if the bees or the fly,are,is
+HaskellMacDonald_15_SP,SP,It doesn't really matter whether the contractor or the banks,are,is
+HaskellMacDonald_15_PS,PS,It doesn't really matter whether the contractors or the bank,are,is
+HaskellMacDonald_16_SP,SP,Can you tell me whether the swing or the slides,are,is
+HaskellMacDonald_16_PS,PS,Can you tell me whether the swings or the slide,are,is
+HaskellMacDonald_17_SP,SP,Do you think the window or the walls,are,is
+HaskellMacDonald_17_PS,PS,Do you think the windows or the wall,are,is
+HaskellMacDonald_18_SP,SP,Do you remember if the dresser or the beds,were,was
+HaskellMacDonald_18_PS,PS,Do you remember if the dressers or the bed,were,was
+HaskellMacDonald_19_SP,SP,Did Naomi say whether the bookshelf or the desks,are,is
+HaskellMacDonald_19_PS,PS,Did Naomi say whether the bookshelves or the desk,are,is
+HaskellMacDonald_20_SP,SP,Can you ask the guide if the sword or the guns,are,is
+HaskellMacDonald_20_PS,PS,Can you ask the guide if the swords or the gun,are,is
+HaskellMacDonald_21_SP,SP,Did Samantha say whether the lamp or the plants,were,was
+HaskellMacDonald_21_PS,PS,Did Samantha say whether the lamps or the plant,were,was
+HaskellMacDonald_22_SP,SP,Can you tell me if the TV or the radios,were,was
+HaskellMacDonald_22_PS,PS,Can you tell me if the TVs or the radio,were,was
+HaskellMacDonald_23_SP,SP,Can you tell me whether the mug or the cups,are,is
+HaskellMacDonald_23_PS,PS,Can you tell me whether the mugs or the cup,are,is
+HaskellMacDonald_24_SP,SP,The guidebook must say whether the river or the mountains,are,is
+HaskellMacDonald_24_PS,PS,The guidebook must say whether the rivers or the mountain,are,is
+HaskellMacDonald_25_SP,SP,Would you say the copier or the printers,are,is
+HaskellMacDonald_25_PS,PS,Would you say the copiers or the printer,are,is
+HaskellMacDonald_26_SP,SP,Ask the doctor whether the passenger or the drivers,were,was
+HaskellMacDonald_26_PS,PS,Ask the doctor whether the passengers or the driver,were,was
+HaskellMacDonald_27_SP,SP,Marcus will tell you whether the pitcher or the teapots,are,is
+HaskellMacDonald_27_PS,PS,Marcus will tell you whether the pitchers or the teapot,are,is
+HaskellMacDonald_28_SP,SP,Do you remember if the martini or the beers,are,is
+HaskellMacDonald_28_PS,PS,Do you remember if the martinis or the beer,are,is
+HaskellMacDonald_29_SP,SP,Ask the boss if the crate or the boxes,are,is
+HaskellMacDonald_29_PS,PS,Ask the boss if the crates or the box,are,is
+HaskellMacDonald_30_SP,SP,I'm confused about whether the statue or the vases,were,was
+HaskellMacDonald_30_PS,PS,I'm confused about whether the statues or the vase,were,was
+HaskellMacDonald_31_SP,SP,Do you think the light or the signs,are,is
+HaskellMacDonald_31_PS,PS,Do you think the lights or the sign,are,is
+HaskellMacDonald_32_SP,SP,Find out whether the shovel or the rakes,are,is
+HaskellMacDonald_32_PS,PS,Find out whether the shovels or the rake,are,is
+HaskellMacDonald_33_SP,SP,Did you think the orange or the apples,were,was
+HaskellMacDonald_33_PS,PS,Did you think the oranges or the apple,were,was
+HaskellMacDonald_34_SP,SP,Can you find out if the jar or the bottles,are,is
+HaskellMacDonald_34_PS,PS,Can you find out if the jars or the bottle,are,is
+HaskellMacDonald_35_SP,SP,Do you know whether the watch or the cameras,were,was
+HaskellMacDonald_35_PS,PS,Do you know whether the watches or the camera,were,was
+HaskellMacDonald_36_SP,SP,The board wants to know if the dolphin or the sharks,were,was
+HaskellMacDonald_36_PS,PS,The board wants to know if the dolphins or the shark,were,was
+HaskellMacDonald_37_SP,SP,Vivian must know whether the bookstore or the galleries,were,was
+HaskellMacDonald_37_PS,PS,Vivian must know whether the bookstores or the gallery,were,was
+HaskellMacDonald_38_SP,SP,Can you tell me whether the racket or the balls,were,was
+HaskellMacDonald_38_PS,PS,Can you tell me whether the rackets or the ball,were,was
+HaskellMacDonald_39_SP,SP,Tell me whether the outlet or the switches,are,is
+HaskellMacDonald_39_PS,PS,Tell me whether the outlets or the switch,are,is

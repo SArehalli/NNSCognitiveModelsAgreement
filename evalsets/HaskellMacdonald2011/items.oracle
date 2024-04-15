@@ -1,0 +1,5936 @@
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (NNP Brenda))(SBAR (IN if)(S (NP (NP (DT the)(NN girl))(CC or)(NP (DT the)(NNS boys)))(VP (VBP are))))))
+MD PRP VB NNP IN DT NN CC DT NNS VBP
+Can you ask Brenda if the girl or the boys are
+can you ask brenda if the girl or the boys are
+Can you ask Brenda if the girl or the boys are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (NNP Brenda))(SBAR (IN if)(S (NP (NP (DT the)(NN girl))(CC or)(NP (DT the)(NNS boys)))(VP (VBZ is))))))
+MD PRP VB NNP IN DT NN CC DT NNS VBZ
+Can you ask Brenda if the girl or the boys is
+can you ask brenda if the girl or the boys is
+Can you ask Brenda if the girl or the boys is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (NNP Brenda))(SBAR (IN if)(S (NP (NP (DT the)(NNS girls))(CC or)(NP (DT the)(NN boy)))(VP (VBP are))))))
+MD PRP VB NNP IN DT NNS CC DT NN VBP
+Can you ask Brenda if the girls or the boy are
+can you ask brenda if the girls or the boy are
+Can you ask Brenda if the girls or the boy are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (NNP Brenda))(SBAR (IN if)(S (NP (NP (DT the)(NNS girls))(CC or)(NP (DT the)(NN boy)))(VP (VBZ is))))))
+MD PRP VB NNP IN DT NNS CC DT NN VBZ
+Can you ask Brenda if the girls or the boy is
+can you ask brenda if the girls or the boy is
+Can you ask Brenda if the girls or the boy is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN tiger))(CC or)(NP (DT the)(NNS lions)))(VP (VBD were))))))))
+VB PRP VB IN DT NN CC DT NNS VBD
+Do you know if the tiger or the lions were
+do you know if the tiger or the lions were
+Do you know if the UNK-LC-er or the UNK-LC-s were
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN tiger))(CC or)(NP (DT the)(NNS lions)))(VP (VBD was))))))))
+VB PRP VB IN DT NN CC DT NNS VBD
+Do you know if the tiger or the lions was
+do you know if the tiger or the lions was
+Do you know if the UNK-LC-er or the UNK-LC-s was
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS tigers))(CC or)(NP (DT the)(NN lion)))(VP (VBD were))))))))
+VB PRP VB IN DT NNS CC DT NN VBD
+Do you know if the tigers or the lion were
+do you know if the tigers or the lion were
+Do you know if the UNK-LC-s or the lion were
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS tigers))(CC or)(NP (DT the)(NN lion)))(VP (VBD was))))))))
+VB PRP VB IN DT NNS CC DT NN VBD
+Do you know if the tigers or the lion was
+do you know if the tigers or the lion was
+Do you know if the UNK-LC-s or the lion was
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NN pickle))(CC or)(NP (DT the)(NNS olives)))(VP (VBP are))))))))
+VB PRP VB DT NN CC DT NNS VBP
+Do you think the pickle or the olives are
+do you think the pickle or the olives are
+Do you think the UNK-LC or the UNK-LC-s are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NN pickle))(CC or)(NP (DT the)(NNS olives)))(VP (VBZ is))))))))
+VB PRP VB DT NN CC DT NNS VBZ
+Do you think the pickle or the olives is
+do you think the pickle or the olives is
+Do you think the UNK-LC or the UNK-LC-s is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NNS pickles))(CC or)(NP (DT the)(NN olive)))(VP (VBP are))))))))
+VB PRP VB DT NNS CC DT NN VBP
+Do you think the pickles or the olive are
+do you think the pickles or the olive are
+Do you think the UNK-LC-s or the UNK-LC are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NNS pickles))(CC or)(NP (DT the)(NN olive)))(VP (VBZ is))))))))
+VB PRP VB DT NNS CC DT NN VBZ
+Do you think the pickles or the olive is
+do you think the pickles or the olive is
+Do you think the UNK-LC-s or the UNK-LC is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (S (VP (VBP Have)(S (NP (PRP you))(VP (VBD heard)(SBAR (IN whether)(S (NP (NP (DT the)(NN swimmer))(CC or)(NP (DT the)(NNS runners)))(VP (VBP are)))))))))
+VBP PRP VBD IN DT NN CC DT NNS VBP
+Have you heard whether the swimmer or the runners are
+have you heard whether the swimmer or the runners are
+Have you heard whether the swimmer or the runners are
+NT(FRAG)
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (S (VP (VBP Have)(S (NP (PRP you))(VP (VBD heard)(SBAR (IN whether)(S (NP (NP (DT the)(NN swimmer))(CC or)(NP (DT the)(NNS runners)))(VP (VBZ is)))))))))
+VBP PRP VBD IN DT NN CC DT NNS VBZ
+Have you heard whether the swimmer or the runners is
+have you heard whether the swimmer or the runners is
+Have you heard whether the swimmer or the runners is
+NT(FRAG)
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (S (VP (VBP Have)(S (NP (PRP you))(VP (VBD heard)(SBAR (IN whether)(S (NP (NP (DT the)(NNS swimmers))(CC or)(NP (DT the)(NN runner)))(VP (VBP are)))))))))
+VBP PRP VBD IN DT NNS CC DT NN VBP
+Have you heard whether the swimmers or the runner are
+have you heard whether the swimmers or the runner are
+Have you heard whether the UNK-LC-s or the UNK-LC-er are
+NT(FRAG)
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (S (VP (VBP Have)(S (NP (PRP you))(VP (VBD heard)(SBAR (IN whether)(S (NP (NP (DT the)(NNS swimmers))(CC or)(NP (DT the)(NN runner)))(VP (VBZ is)))))))))
+VBP PRP VBD IN DT NNS CC DT NN VBZ
+Have you heard whether the swimmers or the runner is
+have you heard whether the swimmers or the runner is
+Have you heard whether the UNK-LC-s or the UNK-LC-er is
+NT(FRAG)
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SBARQ (WHADVP (WRB How))(SQ (VBP do)(NP (PRP I))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN stove))(CC or)(NP (DT the)(NNS refrigerators)))(VP (VBP are)))))))
+WRB VBP PRP VB IN DT NN CC DT NNS VBP
+How do I know if the stove or the refrigerators are
+how do i know if the stove or the refrigerators are
+How do I know if the UNK-LC or the refrigerators are
+NT(SBARQ)
+NT(WHADVP)
+SHIFT
+REDUCE
+NT(SQ)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SBARQ (WHADVP (WRB How))(SQ (VBP do)(NP (PRP I))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN stove))(CC or)(NP (DT the)(NNS refrigerators)))(VP (VBZ is)))))))
+WRB VBP PRP VB IN DT NN CC DT NNS VBZ
+How do I know if the stove or the refrigerators is
+how do i know if the stove or the refrigerators is
+How do I know if the UNK-LC or the refrigerators is
+NT(SBARQ)
+NT(WHADVP)
+SHIFT
+REDUCE
+NT(SQ)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SBARQ (WHADVP (WRB How))(SQ (VBP do)(NP (PRP I))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS stoves))(CC or)(NP (DT the)(NN refrigerator)))(VP (VBP are)))))))
+WRB VBP PRP VB IN DT NNS CC DT NN VBP
+How do I know if the stoves or the refrigerator are
+how do i know if the stoves or the refrigerator are
+How do I know if the UNK-LC-s or the refrigerator are
+NT(SBARQ)
+NT(WHADVP)
+SHIFT
+REDUCE
+NT(SQ)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SBARQ (WHADVP (WRB How))(SQ (VBP do)(NP (PRP I))(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS stoves))(CC or)(NP (DT the)(NN refrigerator)))(VP (VBZ is)))))))
+WRB VBP PRP VB IN DT NNS CC DT NN VBZ
+How do I know if the stoves or the refrigerator is
+how do i know if the stoves or the refrigerator is
+How do I know if the UNK-LC-s or the refrigerator is
+NT(SBARQ)
+NT(WHADVP)
+SHIFT
+REDUCE
+NT(SQ)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (MD ca)(RB n't)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NN nurse))(CC or)(NP (DT the)(NNS doctors)))(VP (VBP are)))))))
+PRP MD RB VB IN DT NN CC DT NNS VBP
+I ca n't tell whether the nurse or the doctors are
+i ca n't tell whether the nurse or the doctors are
+I ca n't tell whether the nurse or the doctors are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (MD ca)(RB n't)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NN nurse))(CC or)(NP (DT the)(NNS doctors)))(VP (VBZ is)))))))
+PRP MD RB VB IN DT NN CC DT NNS VBZ
+I ca n't tell whether the nurse or the doctors is
+i ca n't tell whether the nurse or the doctors is
+I ca n't tell whether the nurse or the doctors is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (MD ca)(RB n't)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NNS nurses))(CC or)(NP (DT the)(NN doctor)))(VP (VBP are)))))))
+PRP MD RB VB IN DT NNS CC DT NN VBP
+I ca n't tell whether the nurses or the doctor are
+i ca n't tell whether the nurses or the doctor are
+I ca n't tell whether the nurses or the doctor are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (MD ca)(RB n't)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NNS nurses))(CC or)(NP (DT the)(NN doctor)))(VP (VBZ is)))))))
+PRP MD RB VB IN DT NNS CC DT NN VBZ
+I ca n't tell whether the nurses or the doctor is
+i ca n't tell whether the nurses or the doctor is
+I ca n't tell whether the nurses or the doctor is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(SBAR (S (NP (DT the)(NNS directions))(VP (VBP say)(SBAR (IN if)(S (NP (NP (DT the)(NN store))(CC or)(NP (DT the)(NNS restaurants)))(VP (VBP are)))))))))
+VB DT NNS VBP IN DT NN CC DT NNS VBP
+Do the directions say if the store or the restaurants are
+do the directions say if the store or the restaurants are
+Do the directions say if the store or the restaurants are
+NT(S)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(SBAR (S (NP (DT the)(NNS directions))(VP (VBP say)(SBAR (IN if)(S (NP (NP (DT the)(NN store))(CC or)(NP (DT the)(NNS restaurants)))(VP (VBZ is)))))))))
+VB DT NNS VBP IN DT NN CC DT NNS VBZ
+Do the directions say if the store or the restaurants is
+do the directions say if the store or the restaurants is
+Do the directions say if the store or the restaurants is
+NT(S)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(SBAR (S (NP (DT the)(NNS directions))(VP (VBP say)(SBAR (IN if)(S (NP (NP (DT the)(NNS stores))(CC or)(NP (DT the)(NN restaurant)))(VP (VBP are)))))))))
+VB DT NNS VBP IN DT NNS CC DT NN VBP
+Do the directions say if the stores or the restaurant are
+do the directions say if the stores or the restaurant are
+Do the directions say if the stores or the restaurant are
+NT(S)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(SBAR (S (NP (DT the)(NNS directions))(VP (VBP say)(SBAR (IN if)(S (NP (NP (DT the)(NNS stores))(CC or)(NP (DT the)(NN restaurant)))(VP (VBZ is)))))))))
+VB DT NNS VBP IN DT NNS CC DT NN VBZ
+Do the directions say if the stores or the restaurant is
+do the directions say if the stores or the restaurant is
+Do the directions say if the stores or the restaurant is
+NT(S)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP We))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN necklace))(CC or)(NP (DT the)(NNS rings)))(VP (VBD were)))))))))
+PRP VBP TO VB IN DT NN CC DT NNS VBD
+We need to know if the necklace or the rings were
+we need to know if the necklace or the rings were
+We need to know if the UNK-LC or the rings were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP We))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN necklace))(CC or)(NP (DT the)(NNS rings)))(VP (VBD was)))))))))
+PRP VBP TO VB IN DT NN CC DT NNS VBD
+We need to know if the necklace or the rings was
+we need to know if the necklace or the rings was
+We need to know if the UNK-LC or the rings was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP We))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS necklaces))(CC or)(NP (DT the)(NN ring)))(VP (VBD were)))))))))
+PRP VBP TO VB IN DT NNS CC DT NN VBD
+We need to know if the necklaces or the ring were
+we need to know if the necklaces or the ring were
+We need to know if the UNK-LC-s or the ring were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP We))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS necklaces))(CC or)(NP (DT the)(NN ring)))(VP (VBD was)))))))))
+PRP VBP TO VB IN DT NNS CC DT NN VBD
+We need to know if the necklaces or the ring was
+we need to know if the necklaces or the ring was
+We need to know if the UNK-LC-s or the ring was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP want)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN sheet))(CC or)(NP (DT the)(NNS blankets)))(VP (VBP are)))))))))
+PRP VBP TO VB IN DT NN CC DT NNS VBP
+I want to know if the sheet or the blankets are
+i want to know if the sheet or the blankets are
+I want to know if the sheet or the blankets are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP want)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN sheet))(CC or)(NP (DT the)(NNS blankets)))(VP (VBZ is)))))))))
+PRP VBP TO VB IN DT NN CC DT NNS VBZ
+I want to know if the sheet or the blankets is
+i want to know if the sheet or the blankets is
+I want to know if the sheet or the blankets is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP want)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS sheets))(CC or)(NP (DT the)(NN blanket)))(VP (VBP are)))))))))
+PRP VBP TO VB IN DT NNS CC DT NN VBP
+I want to know if the sheets or the blanket are
+i want to know if the sheets or the blanket are
+I want to know if the sheets or the blanket are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP want)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS sheets))(CC or)(NP (DT the)(NN blanket)))(VP (VBZ is)))))))))
+PRP VBP TO VB IN DT NNS CC DT NN VBZ
+I want to know if the sheets or the blanket is
+i want to know if the sheets or the blanket is
+I want to know if the sheets or the blanket is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN table))(CC or)(NP (DT the)(NNS benches)))(VP (VBP are)))))))))
+PRP VBP TO VB IN DT NN CC DT NNS VBP
+I need to know if the table or the benches are
+i need to know if the table or the benches are
+I need to know if the table or the benches are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN table))(CC or)(NP (DT the)(NNS benches)))(VP (VBZ is)))))))))
+PRP VBP TO VB IN DT NN CC DT NNS VBZ
+I need to know if the table or the benches is
+i need to know if the table or the benches is
+I need to know if the table or the benches is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS tables))(CC or)(NP (DT the)(NN bench)))(VP (VBP are)))))))))
+PRP VBP TO VB IN DT NNS CC DT NN VBP
+I need to know if the tables or the bench are
+i need to know if the tables or the bench are
+I need to know if the tables or the bench are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP need)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS tables))(CC or)(NP (DT the)(NN bench)))(VP (VBZ is)))))))))
+PRP VBP TO VB IN DT NNS CC DT NN VBZ
+I need to know if the tables or the bench is
+i need to know if the tables or the bench is
+I need to know if the tables or the bench is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Maria))(VP (ADVP (RB probably))(VBZ knows)(SBAR (IN if)(S (NP (NP (DT the)(NN photograph))(CC or)(NP (DT the)(NNS paintings)))(VP (VBP are))))))
+NNP RB VBZ IN DT NN CC DT NNS VBP
+Maria probably knows if the photograph or the paintings are
+maria probably knows if the photograph or the paintings are
+Maria probably knows if the photograph or the paintings are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+NT(ADVP)
+SHIFT
+REDUCE
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Maria))(VP (ADVP (RB probably))(VBZ knows)(SBAR (IN if)(S (NP (NP (DT the)(NN photograph))(CC or)(NP (DT the)(NNS paintings)))(VP (VBZ is))))))
+NNP RB VBZ IN DT NN CC DT NNS VBZ
+Maria probably knows if the photograph or the paintings is
+maria probably knows if the photograph or the paintings is
+Maria probably knows if the photograph or the paintings is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+NT(ADVP)
+SHIFT
+REDUCE
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Maria))(VP (ADVP (RB probably))(VBZ knows)(SBAR (IN if)(S (NP (NP (DT the)(NNS photographs))(CC or)(NP (DT the)(NN painting)))(VP (VBP are))))))
+NNP RB VBZ IN DT NNS CC DT NN VBP
+Maria probably knows if the photographs or the painting are
+maria probably knows if the photographs or the painting are
+Maria probably knows if the photographs or the painting are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+NT(ADVP)
+SHIFT
+REDUCE
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Maria))(VP (ADVP (RB probably))(VBZ knows)(SBAR (IN if)(S (NP (NP (DT the)(NNS photographs))(CC or)(NP (DT the)(NN painting)))(VP (VBZ is))))))
+NNP RB VBZ IN DT NNS CC DT NN VBZ
+Maria probably knows if the photographs or the painting is
+maria probably knows if the photographs or the painting is
+Maria probably knows if the photographs or the painting is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+NT(ADVP)
+SHIFT
+REDUCE
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBD did)(RB n't)(VP (VB matter)(PP (TO to)(NP (PRP me)))(SBAR (IN if)(S (NP (NP (DT the)(NN magazine))(CC or)(NP (DT the)(NNS books)))(VP (VBD were)))))))
+PRP VBD RB VB TO PRP IN DT NN CC DT NNS VBD
+It did n't matter to me if the magazine or the books were
+it did n't matter to me if the magazine or the books were
+It did n't matter to me if the magazine or the books were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBD did)(RB n't)(VP (VB matter)(PP (TO to)(NP (PRP me)))(SBAR (IN if)(S (NP (NP (DT the)(NN magazine))(CC or)(NP (DT the)(NNS books)))(VP (VBD was)))))))
+PRP VBD RB VB TO PRP IN DT NN CC DT NNS VBD
+It did n't matter to me if the magazine or the books was
+it did n't matter to me if the magazine or the books was
+It did n't matter to me if the magazine or the books was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBD did)(RB n't)(VP (VB matter)(PP (TO to)(NP (PRP me)))(SBAR (IN if)(S (NP (NP (DT the)(NNS magazines))(CC or)(NP (DT the)(NN book)))(VP (VBD were)))))))
+PRP VBD RB VB TO PRP IN DT NNS CC DT NN VBD
+It did n't matter to me if the magazines or the book were
+it did n't matter to me if the magazines or the book were
+It did n't matter to me if the magazines or the book were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBD did)(RB n't)(VP (VB matter)(PP (TO to)(NP (PRP me)))(SBAR (IN if)(S (NP (NP (DT the)(NNS magazines))(CC or)(NP (DT the)(NN book)))(VP (VBD was)))))))
+PRP VBD RB VB TO PRP IN DT NNS CC DT NN VBD
+It did n't matter to me if the magazines or the book was
+it did n't matter to me if the magazines or the book was
+It did n't matter to me if the magazines or the book was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(VP)
+SHIFT
+NT(PP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ is)(ADJP (JJ hard)(S (VP (TO to)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NN miner))(CC or)(NP (DT the)(NNS truckers)))(VP (VBP are))))))))))
+PRP VBZ JJ TO VB IN DT NN CC DT NNS VBP
+It is hard to tell whether the miner or the truckers are
+it is hard to tell whether the miner or the truckers are
+It is hard to tell whether the UNK-LC-er or the UNK-LC-s are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ is)(ADJP (JJ hard)(S (VP (TO to)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NN miner))(CC or)(NP (DT the)(NNS truckers)))(VP (VBZ is))))))))))
+PRP VBZ JJ TO VB IN DT NN CC DT NNS VBZ
+It is hard to tell whether the miner or the truckers is
+it is hard to tell whether the miner or the truckers is
+It is hard to tell whether the UNK-LC-er or the UNK-LC-s is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ is)(ADJP (JJ hard)(S (VP (TO to)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NNS miners))(CC or)(NP (DT the)(NN trucker)))(VP (VBP are))))))))))
+PRP VBZ JJ TO VB IN DT NNS CC DT NN VBP
+It is hard to tell whether the miners or the trucker are
+it is hard to tell whether the miners or the trucker are
+It is hard to tell whether the miners or the UNK-LC-er are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ is)(ADJP (JJ hard)(S (VP (TO to)(VP (VB tell)(SBAR (IN whether)(S (NP (NP (DT the)(NNS miners))(CC or)(NP (DT the)(NN trucker)))(VP (VBZ is))))))))))
+PRP VBZ JJ TO VB IN DT NNS CC DT NN VBZ
+It is hard to tell whether the miners or the trucker is
+it is hard to tell whether the miners or the trucker is
+It is hard to tell whether the miners or the UNK-LC-er is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (NNP Ronnie))(SBAR (IN if)(S (NP (NP (DT the)(NN ruby))(CC or)(NP (DT the)(NNS diamonds)))(VP (VBP are))))))
+VB NNP IN DT NN CC DT NNS VBP
+Ask Ronnie if the ruby or the diamonds are
+ask ronnie if the ruby or the diamonds are
+UNK-INITC-KNOWNLC UNK-INITC if the UNK-LC or the diamonds are
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (NNP Ronnie))(SBAR (IN if)(S (NP (NP (DT the)(NN ruby))(CC or)(NP (DT the)(NNS diamonds)))(VP (VBZ is))))))
+VB NNP IN DT NN CC DT NNS VBZ
+Ask Ronnie if the ruby or the diamonds is
+ask ronnie if the ruby or the diamonds is
+UNK-INITC-KNOWNLC UNK-INITC if the UNK-LC or the diamonds is
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (NNP Ronnie))(SBAR (IN if)(S (NP (NP (DT the)(NNS rubies))(CC or)(NP (DT the)(NN diamond)))(VP (VBP are))))))
+VB NNP IN DT NNS CC DT NN VBP
+Ask Ronnie if the rubies or the diamond are
+ask ronnie if the rubies or the diamond are
+UNK-INITC-KNOWNLC UNK-INITC if the UNK-LC-s or the diamond are
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (NNP Ronnie))(SBAR (IN if)(S (NP (NP (DT the)(NNS rubies))(CC or)(NP (DT the)(NN diamond)))(VP (VBZ is))))))
+VB NNP IN DT NNS CC DT NN VBZ
+Ask Ronnie if the rubies or the diamond is
+ask ronnie if the rubies or the diamond is
+UNK-INITC-KNOWNLC UNK-INITC if the UNK-LC-s or the diamond is
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP wonder)(SBAR (IN if)(S (NP (NP (DT the)(NN bee))(CC or)(NP (DT the)(NNS flies)))(VP (VBP are))))))
+PRP VBP IN DT NN CC DT NNS VBP
+I wonder if the bee or the flies are
+i wonder if the bee or the flies are
+I wonder if the UNK-LC or the flies are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP wonder)(SBAR (IN if)(S (NP (NP (DT the)(NN bee))(CC or)(NP (DT the)(NNS flies)))(VP (VBZ is))))))
+PRP VBP IN DT NN CC DT NNS VBZ
+I wonder if the bee or the flies is
+i wonder if the bee or the flies is
+I wonder if the UNK-LC or the flies is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP wonder)(SBAR (IN if)(S (NP (NP (DT the)(NNS bees))(CC or)(NP (DT the)(NN fly)))(VP (VBP are))))))
+PRP VBP IN DT NNS CC DT NN VBP
+I wonder if the bees or the fly are
+i wonder if the bees or the fly are
+I wonder if the bees or the fly are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP wonder)(SBAR (IN if)(S (NP (NP (DT the)(NNS bees))(CC or)(NP (DT the)(NN fly)))(VP (VBZ is))))))
+PRP VBP IN DT NNS CC DT NN VBZ
+I wonder if the bees or the fly is
+i wonder if the bees or the fly is
+I wonder if the bees or the fly is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ does)(RB n't)(ADVP (RB really))(VP (VB matter)(SBAR (IN whether)(S (NP (NP (DT the)(NN contractor))(CC or)(NP (DT the)(NNS banks)))(VP (VBP are)))))))
+PRP VBZ RB RB VB IN DT NN CC DT NNS VBP
+It does n't really matter whether the contractor or the banks are
+it does n't really matter whether the contractor or the banks are
+It does n't really matter whether the contractor or the banks are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(ADVP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ does)(RB n't)(ADVP (RB really))(VP (VB matter)(SBAR (IN whether)(S (NP (NP (DT the)(NN contractor))(CC or)(NP (DT the)(NNS banks)))(VP (VBZ is)))))))
+PRP VBZ RB RB VB IN DT NN CC DT NNS VBZ
+It does n't really matter whether the contractor or the banks is
+it does n't really matter whether the contractor or the banks is
+It does n't really matter whether the contractor or the banks is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(ADVP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ does)(RB n't)(ADVP (RB really))(VP (VB matter)(SBAR (IN whether)(S (NP (NP (DT the)(NNS contractors))(CC or)(NP (DT the)(NN bank)))(VP (VBP are)))))))
+PRP VBZ RB RB VB IN DT NNS CC DT NN VBP
+It does n't really matter whether the contractors or the bank are
+it does n't really matter whether the contractors or the bank are
+It does n't really matter whether the contractors or the bank are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(ADVP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP It))(VP (VBZ does)(RB n't)(ADVP (RB really))(VP (VB matter)(SBAR (IN whether)(S (NP (NP (DT the)(NNS contractors))(CC or)(NP (DT the)(NN bank)))(VP (VBZ is)))))))
+PRP VBZ RB RB VB IN DT NNS CC DT NN VBZ
+It does n't really matter whether the contractors or the bank is
+it does n't really matter whether the contractors or the bank is
+It does n't really matter whether the contractors or the bank is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+SHIFT
+NT(ADVP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (NP (NP (DT the)(RBS most))(NP (NN money))(. .))
+DT RBS NN .
+the most money .
+the most money .
+the most money .
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(NP)
+SHIFT
+REDUCE
+SHIFT
+REDUCE
+
+# (NP (NP (DT the)(RBS most))(NP (NN money))(. .))
+DT RBS NN .
+the most money .
+the most money .
+the most money .
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(NP)
+SHIFT
+REDUCE
+SHIFT
+REDUCE
+
+# (NP (NP (DT the)(RBS most))(NP (NN money))(. .))
+DT RBS NN .
+the most money .
+the most money .
+the most money .
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(NP)
+SHIFT
+REDUCE
+SHIFT
+REDUCE
+
+# (NP (NP (DT the)(RBS most))(NP (NN money))(. .))
+DT RBS NN .
+the most money .
+the most money .
+the most money .
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(NP)
+SHIFT
+REDUCE
+SHIFT
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NN window))(CC or)(NP (DT the)(NNS walls)))(VP (VBP are))))))))
+VB PRP VB DT NN CC DT NNS VBP
+Do you think the window or the walls are
+do you think the window or the walls are
+Do you think the window or the walls are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NN window))(CC or)(NP (DT the)(NNS walls)))(VP (VBZ is))))))))
+VB PRP VB DT NN CC DT NNS VBZ
+Do you think the window or the walls is
+do you think the window or the walls is
+Do you think the window or the walls is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NNS windows))(CC or)(NP (DT the)(NN wall)))(VP (VBP are))))))))
+VB PRP VB DT NNS CC DT NN VBP
+Do you think the windows or the wall are
+do you think the windows or the wall are
+Do you think the windows or the wall are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NNS windows))(CC or)(NP (DT the)(NN wall)))(VP (VBZ is))))))))
+VB PRP VB DT NNS CC DT NN VBZ
+Do you think the windows or the wall is
+do you think the windows or the wall is
+Do you think the windows or the wall is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NN dresser))(CC or)(NP (DT the)(NNS beds)))(VP (VBD were))))))))
+VB PRP VB IN DT NN CC DT NNS VBD
+Do you remember if the dresser or the beds were
+do you remember if the dresser or the beds were
+Do you remember if the UNK-LC-er or the UNK-LC-s were
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NN dresser))(CC or)(NP (DT the)(NNS beds)))(VP (VBD was))))))))
+VB PRP VB IN DT NN CC DT NNS VBD
+Do you remember if the dresser or the beds was
+do you remember if the dresser or the beds was
+Do you remember if the UNK-LC-er or the UNK-LC-s was
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NNS dressers))(CC or)(NP (DT the)(NN bed)))(VP (VBD were))))))))
+VB PRP VB IN DT NNS CC DT NN VBD
+Do you remember if the dressers or the bed were
+do you remember if the dressers or the bed were
+Do you remember if the UNK-LC-s or the bed were
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NNS dressers))(CC or)(NP (DT the)(NN bed)))(VP (VBD was))))))))
+VB PRP VB IN DT NNS CC DT NN VBD
+Do you remember if the dressers or the bed was
+do you remember if the dressers or the bed was
+Do you remember if the UNK-LC-s or the bed was
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Naomi))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NN bookshelf))(CC or)(NP (DT the)(NNS desks)))(VP (VBP are))))))))
+VBD NNP VB IN DT NN CC DT NNS VBP
+Did Naomi say whether the bookshelf or the desks are
+did naomi say whether the bookshelf or the desks are
+Did Naomi say whether the UNK-LC or the desks are
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Naomi))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NN bookshelf))(CC or)(NP (DT the)(NNS desks)))(VP (VBZ is))))))))
+VBD NNP VB IN DT NN CC DT NNS VBZ
+Did Naomi say whether the bookshelf or the desks is
+did naomi say whether the bookshelf or the desks is
+Did Naomi say whether the UNK-LC or the desks is
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Naomi))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NNS bookshelves))(CC or)(NP (DT the)(NN desk)))(VP (VBP are))))))))
+VBD NNP VB IN DT NNS CC DT NN VBP
+Did Naomi say whether the bookshelves or the desk are
+did naomi say whether the bookshelves or the desk are
+Did Naomi say whether the UNK-LC-s or the desk are
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Naomi))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NNS bookshelves))(CC or)(NP (DT the)(NN desk)))(VP (VBZ is))))))))
+VBD NNP VB IN DT NNS CC DT NN VBZ
+Did Naomi say whether the bookshelves or the desk is
+did naomi say whether the bookshelves or the desk is
+Did Naomi say whether the UNK-LC-s or the desk is
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (DT the)(NN guide))(SBAR (IN if)(S (NP (NP (DT the)(NN sword))(CC or)(NP (DT the)(NNS guns)))(VP (VBP are))))))
+MD PRP VB DT NN IN DT NN CC DT NNS VBP
+Can you ask the guide if the sword or the guns are
+can you ask the guide if the sword or the guns are
+Can you ask the guide if the UNK-LC or the guns are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (DT the)(NN guide))(SBAR (IN if)(S (NP (NP (DT the)(NN sword))(CC or)(NP (DT the)(NNS guns)))(VP (VBZ is))))))
+MD PRP VB DT NN IN DT NN CC DT NNS VBZ
+Can you ask the guide if the sword or the guns is
+can you ask the guide if the sword or the guns is
+Can you ask the guide if the UNK-LC or the guns is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (DT the)(NN guide))(SBAR (IN if)(S (NP (NP (DT the)(NNS swords))(CC or)(NP (DT the)(NN gun)))(VP (VBP are))))))
+MD PRP VB DT NN IN DT NNS CC DT NN VBP
+Can you ask the guide if the swords or the gun are
+can you ask the guide if the swords or the gun are
+Can you ask the guide if the UNK-LC-s or the gun are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB ask)(NP (DT the)(NN guide))(SBAR (IN if)(S (NP (NP (DT the)(NNS swords))(CC or)(NP (DT the)(NN gun)))(VP (VBZ is))))))
+MD PRP VB DT NN IN DT NNS CC DT NN VBZ
+Can you ask the guide if the swords or the gun is
+can you ask the guide if the swords or the gun is
+Can you ask the guide if the UNK-LC-s or the gun is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Samantha))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NN lamp))(CC or)(NP (DT the)(NNS plants)))(VP (VBD were))))))))
+VBD NNP VB IN DT NN CC DT NNS VBD
+Did Samantha say whether the lamp or the plants were
+did samantha say whether the lamp or the plants were
+Did UNK-INITC say whether the UNK-LC or the plants were
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Samantha))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NN lamp))(CC or)(NP (DT the)(NNS plants)))(VP (VBD was))))))))
+VBD NNP VB IN DT NN CC DT NNS VBD
+Did Samantha say whether the lamp or the plants was
+did samantha say whether the lamp or the plants was
+Did UNK-INITC say whether the UNK-LC or the plants was
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Samantha))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NNS lamps))(CC or)(NP (DT the)(NN plant)))(VP (VBD were))))))))
+VBD NNP VB IN DT NNS CC DT NN VBD
+Did Samantha say whether the lamps or the plant were
+did samantha say whether the lamps or the plant were
+Did UNK-INITC say whether the UNK-LC-s or the plant were
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (FRAG (VP (VBD Did)(S (NP (NNP Samantha))(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NNS lamps))(CC or)(NP (DT the)(NN plant)))(VP (VBD was))))))))
+VBD NNP VB IN DT NNS CC DT NN VBD
+Did Samantha say whether the lamps or the plant was
+did samantha say whether the lamps or the plant was
+Did UNK-INITC say whether the UNK-LC-s or the plant was
+NT(FRAG)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN if)(S (NP (NP (DT the)(NN TV))(CC or)(NP (DT the)(NNS radios)))(VP (VBD were))))))
+MD PRP VB PRP IN DT NN CC DT NNS VBD
+Can you tell me if the TV or the radios were
+can you tell me if the tv or the radios were
+Can you tell me if the TV or the radios were
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN if)(S (NP (NP (DT the)(NN TV))(CC or)(NP (DT the)(NNS radios)))(VP (VBD was))))))
+MD PRP VB PRP IN DT NN CC DT NNS VBD
+Can you tell me if the TV or the radios was
+can you tell me if the tv or the radios was
+Can you tell me if the TV or the radios was
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN if)(S (NP (NP (DT the)(NNS TVs))(CC or)(NP (DT the)(NN radio)))(VP (VBD were))))))
+MD PRP VB PRP IN DT NNS CC DT NN VBD
+Can you tell me if the TVs or the radio were
+can you tell me if the tvs or the radio were
+Can you tell me if the TVs or the radio were
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN if)(S (NP (NP (DT the)(NNS TVs))(CC or)(NP (DT the)(NN radio)))(VP (VBD was))))))
+MD PRP VB PRP IN DT NNS CC DT NN VBD
+Can you tell me if the TVs or the radio was
+can you tell me if the tvs or the radio was
+Can you tell me if the TVs or the radio was
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NN mug))(CC or)(NP (DT the)(NNS cups)))(VP (VBP are))))))
+MD PRP VB PRP IN DT NN CC DT NNS VBP
+Can you tell me whether the mug or the cups are
+can you tell me whether the mug or the cups are
+Can you tell me whether the UNK-LC or the cups are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NN mug))(CC or)(NP (DT the)(NNS cups)))(VP (VBZ is))))))
+MD PRP VB PRP IN DT NN CC DT NNS VBZ
+Can you tell me whether the mug or the cups is
+can you tell me whether the mug or the cups is
+Can you tell me whether the UNK-LC or the cups is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NNS mugs))(CC or)(NP (DT the)(NN cup)))(VP (VBP are))))))
+MD PRP VB PRP IN DT NNS CC DT NN VBP
+Can you tell me whether the mugs or the cup are
+can you tell me whether the mugs or the cup are
+Can you tell me whether the UNK-LC-s or the cup are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NNS mugs))(CC or)(NP (DT the)(NN cup)))(VP (VBZ is))))))
+MD PRP VB PRP IN DT NNS CC DT NN VBZ
+Can you tell me whether the mugs or the cup is
+can you tell me whether the mugs or the cup is
+Can you tell me whether the UNK-LC-s or the cup is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN guidebook))(VP (MD must)(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NN river))(CC or)(NP (DT the)(NNS mountains)))(VP (VBP are)))))))
+DT NN MD VB IN DT NN CC DT NNS VBP
+The guidebook must say whether the river or the mountains are
+the guidebook must say whether the river or the mountains are
+The UNK-LC must say whether the river or the mountains are
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN guidebook))(VP (MD must)(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NN river))(CC or)(NP (DT the)(NNS mountains)))(VP (VBZ is)))))))
+DT NN MD VB IN DT NN CC DT NNS VBZ
+The guidebook must say whether the river or the mountains is
+the guidebook must say whether the river or the mountains is
+The UNK-LC must say whether the river or the mountains is
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN guidebook))(VP (MD must)(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NNS rivers))(CC or)(NP (DT the)(NN mountain)))(VP (VBP are)))))))
+DT NN MD VB IN DT NNS CC DT NN VBP
+The guidebook must say whether the rivers or the mountain are
+the guidebook must say whether the rivers or the mountain are
+The UNK-LC must say whether the rivers or the mountain are
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN guidebook))(VP (MD must)(VP (VB say)(SBAR (IN whether)(S (NP (NP (DT the)(NNS rivers))(CC or)(NP (DT the)(NN mountain)))(VP (VBZ is)))))))
+DT NN MD VB IN DT NNS CC DT NN VBZ
+The guidebook must say whether the rivers or the mountain is
+the guidebook must say whether the rivers or the mountain is
+The UNK-LC must say whether the rivers or the mountain is
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Would)(NP (PRP you))(VP (VB say)(SBAR (S (NP (NP (DT the)(NN copier))(CC or)(NP (DT the)(NNS printers)))(VP (VBP are))))))
+MD PRP VB DT NN CC DT NNS VBP
+Would you say the copier or the printers are
+would you say the copier or the printers are
+Would you say the copier or the printers are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Would)(NP (PRP you))(VP (VB say)(SBAR (S (NP (NP (DT the)(NN copier))(CC or)(NP (DT the)(NNS printers)))(VP (VBZ is))))))
+MD PRP VB DT NN CC DT NNS VBZ
+Would you say the copier or the printers is
+would you say the copier or the printers is
+Would you say the copier or the printers is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Would)(NP (PRP you))(VP (VB say)(SBAR (S (NP (NP (DT the)(NNS copiers))(CC or)(NP (DT the)(NN printer)))(VP (VBP are))))))
+MD PRP VB DT NNS CC DT NN VBP
+Would you say the copiers or the printer are
+would you say the copiers or the printer are
+Would you say the copiers or the printer are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Would)(NP (PRP you))(VP (VB say)(SBAR (S (NP (NP (DT the)(NNS copiers))(CC or)(NP (DT the)(NN printer)))(VP (VBZ is))))))
+MD PRP VB DT NNS CC DT NN VBZ
+Would you say the copiers or the printer is
+would you say the copiers or the printer is
+Would you say the copiers or the printer is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN doctor))(SBAR (IN whether)(S (NP (NP (DT the)(NN passenger))(CC or)(NP (DT the)(NNS drivers)))(VP (VBD were))))))
+VB DT NN IN DT NN CC DT NNS VBD
+Ask the doctor whether the passenger or the drivers were
+ask the doctor whether the passenger or the drivers were
+UNK-INITC-KNOWNLC the doctor whether the passenger or the drivers were
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN doctor))(SBAR (IN whether)(S (NP (NP (DT the)(NN passenger))(CC or)(NP (DT the)(NNS drivers)))(VP (VBD was))))))
+VB DT NN IN DT NN CC DT NNS VBD
+Ask the doctor whether the passenger or the drivers was
+ask the doctor whether the passenger or the drivers was
+UNK-INITC-KNOWNLC the doctor whether the passenger or the drivers was
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN doctor))(SBAR (IN whether)(S (NP (NP (DT the)(NNS passengers))(CC or)(NP (DT the)(NN driver)))(VP (VBD were))))))
+VB DT NN IN DT NNS CC DT NN VBD
+Ask the doctor whether the passengers or the driver were
+ask the doctor whether the passengers or the driver were
+UNK-INITC-KNOWNLC the doctor whether the passengers or the driver were
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN doctor))(SBAR (IN whether)(S (NP (NP (DT the)(NNS passengers))(CC or)(NP (DT the)(NN driver)))(VP (VBD was))))))
+VB DT NN IN DT NNS CC DT NN VBD
+Ask the doctor whether the passengers or the driver was
+ask the doctor whether the passengers or the driver was
+UNK-INITC-KNOWNLC the doctor whether the passengers or the driver was
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Marcus))(VP (MD will)(VP (VB tell)(NP (PRP you))(SBAR (IN whether)(S (NP (NP (DT the)(NN pitcher))(CC or)(NP (DT the)(NNS teapots)))(VP (VBP are)))))))
+NNP MD VB PRP IN DT NN CC DT NNS VBP
+Marcus will tell you whether the pitcher or the teapots are
+marcus will tell you whether the pitcher or the teapots are
+Marcus will tell you whether the pitcher or the UNK-LC-s are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Marcus))(VP (MD will)(VP (VB tell)(NP (PRP you))(SBAR (IN whether)(S (NP (NP (DT the)(NN pitcher))(CC or)(NP (DT the)(NNS teapots)))(VP (VBZ is)))))))
+NNP MD VB PRP IN DT NN CC DT NNS VBZ
+Marcus will tell you whether the pitcher or the teapots is
+marcus will tell you whether the pitcher or the teapots is
+Marcus will tell you whether the pitcher or the UNK-LC-s is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Marcus))(VP (MD will)(VP (VB tell)(NP (PRP you))(SBAR (IN whether)(S (NP (NP (DT the)(NNS pitchers))(CC or)(NP (DT the)(NN teapot)))(VP (VBP are)))))))
+NNP MD VB PRP IN DT NNS CC DT NN VBP
+Marcus will tell you whether the pitchers or the teapot are
+marcus will tell you whether the pitchers or the teapot are
+Marcus will tell you whether the pitchers or the UNK-LC are
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Marcus))(VP (MD will)(VP (VB tell)(NP (PRP you))(SBAR (IN whether)(S (NP (NP (DT the)(NNS pitchers))(CC or)(NP (DT the)(NN teapot)))(VP (VBZ is)))))))
+NNP MD VB PRP IN DT NNS CC DT NN VBZ
+Marcus will tell you whether the pitchers or the teapot is
+marcus will tell you whether the pitchers or the teapot is
+Marcus will tell you whether the pitchers or the UNK-LC is
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NN martini))(CC or)(NP (DT the)(NNS beers)))(VP (VBP are))))))))
+VB PRP VB IN DT NN CC DT NNS VBP
+Do you remember if the martini or the beers are
+do you remember if the martini or the beers are
+Do you remember if the UNK-LC or the beers are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NN martini))(CC or)(NP (DT the)(NNS beers)))(VP (VBZ is))))))))
+VB PRP VB IN DT NN CC DT NNS VBZ
+Do you remember if the martini or the beers is
+do you remember if the martini or the beers is
+Do you remember if the UNK-LC or the beers is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NNS martinis))(CC or)(NP (DT the)(NN beer)))(VP (VBP are))))))))
+VB PRP VB IN DT NNS CC DT NN VBP
+Do you remember if the martinis or the beer are
+do you remember if the martinis or the beer are
+Do you remember if the UNK-LC or the beer are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB remember)(SBAR (IN if)(S (NP (NP (DT the)(NNS martinis))(CC or)(NP (DT the)(NN beer)))(VP (VBZ is))))))))
+VB PRP VB IN DT NNS CC DT NN VBZ
+Do you remember if the martinis or the beer is
+do you remember if the martinis or the beer is
+Do you remember if the UNK-LC or the beer is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN boss))(SBAR (IN if)(S (NP (NP (DT the)(NN crate))(CC or)(NP (DT the)(NNS boxes)))(VP (VBP are))))))
+VB DT NN IN DT NN CC DT NNS VBP
+Ask the boss if the crate or the boxes are
+ask the boss if the crate or the boxes are
+UNK-INITC-KNOWNLC the boss if the UNK-LC or the boxes are
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN boss))(SBAR (IN if)(S (NP (NP (DT the)(NN crate))(CC or)(NP (DT the)(NNS boxes)))(VP (VBZ is))))))
+VB DT NN IN DT NN CC DT NNS VBZ
+Ask the boss if the crate or the boxes is
+ask the boss if the crate or the boxes is
+UNK-INITC-KNOWNLC the boss if the UNK-LC or the boxes is
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN boss))(SBAR (IN if)(S (NP (NP (DT the)(NNS crates))(CC or)(NP (DT the)(NN box)))(VP (VBP are))))))
+VB DT NN IN DT NNS CC DT NN VBP
+Ask the boss if the crates or the box are
+ask the boss if the crates or the box are
+UNK-INITC-KNOWNLC the boss if the crates or the box are
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Ask)(NP (DT the)(NN boss))(SBAR (IN if)(S (NP (NP (DT the)(NNS crates))(CC or)(NP (DT the)(NN box)))(VP (VBZ is))))))
+VB DT NN IN DT NNS CC DT NN VBZ
+Ask the boss if the crates or the box is
+ask the boss if the crates or the box is
+UNK-INITC-KNOWNLC the boss if the crates or the box is
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP 'm)(ADJP (VBN confused)(PP (IN about)(SBAR (IN whether)(S (NP (NP (DT the)(NN statue))(CC or)(NP (DT the)(NNS vases)))(VP (VBD were))))))))
+PRP VBP VBN IN IN DT NN CC DT NNS VBD
+I 'm confused about whether the statue or the vases were
+i 'm confused about whether the statue or the vases were
+I 'm confused about whether the statue or the UNK-LC-s were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(PP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP 'm)(ADJP (VBN confused)(PP (IN about)(SBAR (IN whether)(S (NP (NP (DT the)(NN statue))(CC or)(NP (DT the)(NNS vases)))(VP (VBD was))))))))
+PRP VBP VBN IN IN DT NN CC DT NNS VBD
+I 'm confused about whether the statue or the vases was
+i 'm confused about whether the statue or the vases was
+I 'm confused about whether the statue or the UNK-LC-s was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(PP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP 'm)(ADJP (VBN confused)(PP (IN about)(SBAR (IN whether)(S (NP (NP (DT the)(NNS statues))(CC or)(NP (DT the)(NN vase)))(VP (VBD were))))))))
+PRP VBP VBN IN IN DT NNS CC DT NN VBD
+I 'm confused about whether the statues or the vase were
+i 'm confused about whether the statues or the vase were
+I 'm confused about whether the statues or the UNK-LC were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(PP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (PRP I))(VP (VBP 'm)(ADJP (VBN confused)(PP (IN about)(SBAR (IN whether)(S (NP (NP (DT the)(NNS statues))(CC or)(NP (DT the)(NN vase)))(VP (VBD was))))))))
+PRP VBP VBN IN IN DT NNS CC DT NN VBD
+I 'm confused about whether the statues or the vase was
+i 'm confused about whether the statues or the vase was
+I 'm confused about whether the statues or the UNK-LC was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(ADJP)
+SHIFT
+NT(PP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NN light))(CC or)(NP (DT the)(NNS signs)))(VP (VBP are))))))))
+VB PRP VB DT NN CC DT NNS VBP
+Do you think the light or the signs are
+do you think the light or the signs are
+Do you think the light or the signs are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NN light))(CC or)(NP (DT the)(NNS signs)))(VP (VBZ is))))))))
+VB PRP VB DT NN CC DT NNS VBZ
+Do you think the light or the signs is
+do you think the light or the signs is
+Do you think the light or the signs is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NNS lights))(CC or)(NP (DT the)(NN sign)))(VP (VBP are))))))))
+VB PRP VB DT NNS CC DT NN VBP
+Do you think the lights or the sign are
+do you think the lights or the sign are
+Do you think the lights or the sign are
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB think)(SBAR (S (NP (NP (DT the)(NNS lights))(CC or)(NP (DT the)(NN sign)))(VP (VBZ is))))))))
+VB PRP VB DT NNS CC DT NN VBZ
+Do you think the lights or the sign is
+do you think the lights or the sign is
+Do you think the lights or the sign is
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Find)(PRT (RP out))(SBAR (IN whether)(S (NP (NP (DT the)(NN shovel))(CC or)(NP (DT the)(NNS rakes)))(VP (VBP are))))))
+VB RP IN DT NN CC DT NNS VBP
+Find out whether the shovel or the rakes are
+find out whether the shovel or the rakes are
+UNK-INITC-KNOWNLC out whether the UNK-LC or the UNK-LC-s are
+NT(S)
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Find)(PRT (RP out))(SBAR (IN whether)(S (NP (NP (DT the)(NN shovel))(CC or)(NP (DT the)(NNS rakes)))(VP (VBZ is))))))
+VB RP IN DT NN CC DT NNS VBZ
+Find out whether the shovel or the rakes is
+find out whether the shovel or the rakes is
+UNK-INITC-KNOWNLC out whether the UNK-LC or the UNK-LC-s is
+NT(S)
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Find)(PRT (RP out))(SBAR (IN whether)(S (NP (NP (DT the)(NNS shovels))(CC or)(NP (DT the)(NN rake)))(VP (VBP are))))))
+VB RP IN DT NNS CC DT NN VBP
+Find out whether the shovels or the rake are
+find out whether the shovels or the rake are
+UNK-INITC-KNOWNLC out whether the shovels or the rake are
+NT(S)
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Find)(PRT (RP out))(SBAR (IN whether)(S (NP (NP (DT the)(NNS shovels))(CC or)(NP (DT the)(NN rake)))(VP (VBZ is))))))
+VB RP IN DT NNS CC DT NN VBZ
+Find out whether the shovels or the rake is
+find out whether the shovels or the rake is
+UNK-INITC-KNOWNLC out whether the shovels or the rake is
+NT(S)
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (VP (VBD Did)(SBAR (S (NP (PRP you))(VP (VBP think)))))(NP (NP (DT the)(NN orange))(CC or)(NP (NP (DT the)(NNS apples))(VP (VBD were)))))
+VBD PRP VBP DT NN CC DT NNS VBD
+Did you think the orange or the apples were
+did you think the orange or the apples were
+Did you think the orange or the apples were
+NT(SINV)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (VP (VBD Did)(SBAR (S (NP (PRP you))(VP (VBP think)))))(NP (NP (DT the)(NN orange))(CC or)(NP (NP (DT the)(NNS apples))(VP (VBD was)))))
+VBD PRP VBP DT NN CC DT NNS VBD
+Did you think the orange or the apples was
+did you think the orange or the apples was
+Did you think the orange or the apples was
+NT(SINV)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (VP (VBD Did)(SBAR (S (NP (PRP you))(VP (VBP think)))))(NP (NP (DT the)(NNS oranges))(CC or)(NP (NP (DT the)(NN apple))(VP (VBD were)))))
+VBD PRP VBP DT NNS CC DT NN VBD
+Did you think the oranges or the apple were
+did you think the oranges or the apple were
+Did you think the UNK-LC-s or the apple were
+NT(SINV)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (VP (VBD Did)(SBAR (S (NP (PRP you))(VP (VBP think)))))(NP (NP (DT the)(NNS oranges))(CC or)(NP (NP (DT the)(NN apple))(VP (VBD was)))))
+VBD PRP VBP DT NNS CC DT NN VBD
+Did you think the oranges or the apple was
+did you think the oranges or the apple was
+Did you think the UNK-LC-s or the apple was
+NT(SINV)
+NT(VP)
+SHIFT
+NT(SBAR)
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB find)(PRT (RP out))(SBAR (IN if)(S (NP (NP (DT the)(NN jar))(CC or)(NP (DT the)(NNS bottles)))(VP (VBP are))))))
+MD PRP VB RP IN DT NN CC DT NNS VBP
+Can you find out if the jar or the bottles are
+can you find out if the jar or the bottles are
+Can you find out if the UNK-LC or the bottles are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB find)(PRT (RP out))(SBAR (IN if)(S (NP (NP (DT the)(NN jar))(CC or)(NP (DT the)(NNS bottles)))(VP (VBZ is))))))
+MD PRP VB RP IN DT NN CC DT NNS VBZ
+Can you find out if the jar or the bottles is
+can you find out if the jar or the bottles is
+Can you find out if the UNK-LC or the bottles is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB find)(PRT (RP out))(SBAR (IN if)(S (NP (NP (DT the)(NNS jars))(CC or)(NP (DT the)(NN bottle)))(VP (VBP are))))))
+MD PRP VB RP IN DT NNS CC DT NN VBP
+Can you find out if the jars or the bottle are
+can you find out if the jars or the bottle are
+Can you find out if the UNK-LC-s or the bottle are
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB find)(PRT (RP out))(SBAR (IN if)(S (NP (NP (DT the)(NNS jars))(CC or)(NP (DT the)(NN bottle)))(VP (VBZ is))))))
+MD PRP VB RP IN DT NNS CC DT NN VBZ
+Can you find out if the jars or the bottle is
+can you find out if the jars or the bottle is
+Can you find out if the UNK-LC-s or the bottle is
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(PRT)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NN watch))(CC or)(NP (DT the)(NNS cameras)))(VP (VBD were))))))))
+VB PRP VB IN DT NN CC DT NNS VBD
+Do you know whether the watch or the cameras were
+do you know whether the watch or the cameras were
+Do you know whether the watch or the cameras were
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NN watch))(CC or)(NP (DT the)(NNS cameras)))(VP (VBD was))))))))
+VB PRP VB IN DT NN CC DT NNS VBD
+Do you know whether the watch or the cameras was
+do you know whether the watch or the cameras was
+Do you know whether the watch or the cameras was
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NNS watches))(CC or)(NP (DT the)(NN camera)))(VP (VBD were))))))))
+VB PRP VB IN DT NNS CC DT NN VBD
+Do you know whether the watches or the camera were
+do you know whether the watches or the camera were
+Do you know whether the watches or the camera were
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Do)(S (NP (PRP you))(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NNS watches))(CC or)(NP (DT the)(NN camera)))(VP (VBD was))))))))
+VB PRP VB IN DT NNS CC DT NN VBD
+Do you know whether the watches or the camera was
+do you know whether the watches or the camera was
+Do you know whether the watches or the camera was
+NT(S)
+NT(VP)
+SHIFT
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN board))(VP (VBZ wants)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN dolphin))(CC or)(NP (DT the)(NNS sharks)))(VP (VBD were)))))))))
+DT NN VBZ TO VB IN DT NN CC DT NNS VBD
+The board wants to know if the dolphin or the sharks were
+the board wants to know if the dolphin or the sharks were
+The board wants to know if the UNK-LC or the sharks were
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN board))(VP (VBZ wants)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NN dolphin))(CC or)(NP (DT the)(NNS sharks)))(VP (VBD was)))))))))
+DT NN VBZ TO VB IN DT NN CC DT NNS VBD
+The board wants to know if the dolphin or the sharks was
+the board wants to know if the dolphin or the sharks was
+The board wants to know if the UNK-LC or the sharks was
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN board))(VP (VBZ wants)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS dolphins))(CC or)(NP (DT the)(NN shark)))(VP (VBD were)))))))))
+DT NN VBZ TO VB IN DT NNS CC DT NN VBD
+The board wants to know if the dolphins or the shark were
+the board wants to know if the dolphins or the shark were
+The board wants to know if the dolphins or the UNK-LC were
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (DT The)(NN board))(VP (VBZ wants)(S (VP (TO to)(VP (VB know)(SBAR (IN if)(S (NP (NP (DT the)(NNS dolphins))(CC or)(NP (DT the)(NN shark)))(VP (VBD was)))))))))
+DT NN VBZ TO VB IN DT NNS CC DT NN VBD
+The board wants to know if the dolphins or the shark was
+the board wants to know if the dolphins or the shark was
+The board wants to know if the dolphins or the UNK-LC was
+NT(S)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(S)
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Vivian))(VP (MD must)(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NN bookstore))(CC or)(NP (DT the)(NNS galleries)))(VP (VBD were)))))))
+NNP MD VB IN DT NN CC DT NNS VBD
+Vivian must know whether the bookstore or the galleries were
+vivian must know whether the bookstore or the galleries were
+UNK-INITC must know whether the UNK-LC or the galleries were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Vivian))(VP (MD must)(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NN bookstore))(CC or)(NP (DT the)(NNS galleries)))(VP (VBD was)))))))
+NNP MD VB IN DT NN CC DT NNS VBD
+Vivian must know whether the bookstore or the galleries was
+vivian must know whether the bookstore or the galleries was
+UNK-INITC must know whether the UNK-LC or the galleries was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Vivian))(VP (MD must)(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NNS bookstores))(CC or)(NP (DT the)(NN gallery)))(VP (VBD were)))))))
+NNP MD VB IN DT NNS CC DT NN VBD
+Vivian must know whether the bookstores or the gallery were
+vivian must know whether the bookstores or the gallery were
+UNK-INITC must know whether the bookstores or the gallery were
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (NP (NNP Vivian))(VP (MD must)(VP (VB know)(SBAR (IN whether)(S (NP (NP (DT the)(NNS bookstores))(CC or)(NP (DT the)(NN gallery)))(VP (VBD was)))))))
+NNP MD VB IN DT NNS CC DT NN VBD
+Vivian must know whether the bookstores or the gallery was
+vivian must know whether the bookstores or the gallery was
+UNK-INITC must know whether the bookstores or the gallery was
+NT(S)
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(VP)
+SHIFT
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NN racket))(CC or)(NP (DT the)(NNS balls)))(VP (VBD were))))))
+MD PRP VB PRP IN DT NN CC DT NNS VBD
+Can you tell me whether the racket or the balls were
+can you tell me whether the racket or the balls were
+Can you tell me whether the UNK-LC or the balls were
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NN racket))(CC or)(NP (DT the)(NNS balls)))(VP (VBD was))))))
+MD PRP VB PRP IN DT NN CC DT NNS VBD
+Can you tell me whether the racket or the balls was
+can you tell me whether the racket or the balls was
+Can you tell me whether the UNK-LC or the balls was
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NNS rackets))(CC or)(NP (DT the)(NN ball)))(VP (VBD were))))))
+MD PRP VB PRP IN DT NNS CC DT NN VBD
+Can you tell me whether the rackets or the ball were
+can you tell me whether the rackets or the ball were
+Can you tell me whether the UNK-LC-s or the ball were
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (SINV (MD Can)(NP (PRP you))(VP (VB tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NNS rackets))(CC or)(NP (DT the)(NN ball)))(VP (VBD was))))))
+MD PRP VB PRP IN DT NNS CC DT NN VBD
+Can you tell me whether the rackets or the ball was
+can you tell me whether the rackets or the ball was
+Can you tell me whether the UNK-LC-s or the ball was
+NT(SINV)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NN outlet))(CC or)(NP (DT the)(NNS switches)))(VP (VBP are))))))
+VB PRP IN DT NN CC DT NNS VBP
+Tell me whether the outlet or the switches are
+tell me whether the outlet or the switches are
+Tell me whether the outlet or the switches are
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NN outlet))(CC or)(NP (DT the)(NNS switches)))(VP (VBZ is))))))
+VB PRP IN DT NN CC DT NNS VBZ
+Tell me whether the outlet or the switches is
+tell me whether the outlet or the switches is
+Tell me whether the outlet or the switches is
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NNS outlets))(CC or)(NP (DT the)(NN switch)))(VP (VBP are))))))
+VB PRP IN DT NNS CC DT NN VBP
+Tell me whether the outlets or the switch are
+tell me whether the outlets or the switch are
+Tell me whether the outlets or the switch are
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+
+# (S (VP (VB Tell)(NP (PRP me))(SBAR (IN whether)(S (NP (NP (DT the)(NNS outlets))(CC or)(NP (DT the)(NN switch)))(VP (VBZ is))))))
+VB PRP IN DT NNS CC DT NN VBZ
+Tell me whether the outlets or the switch is
+tell me whether the outlets or the switch is
+Tell me whether the outlets or the switch is
+NT(S)
+NT(VP)
+SHIFT
+NT(NP)
+SHIFT
+REDUCE
+NT(SBAR)
+SHIFT
+NT(S)
+NT(NP)
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+SHIFT
+NT(NP)
+SHIFT
+SHIFT
+REDUCE
+REDUCE
+NT(VP)
+SHIFT
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+REDUCE
+

@@ -1,0 +1,12 @@
+colorlessgreenRNNs/*
+CCGMultitask/*
+CCGIntervention/models/*
+rnng/*
+models/*
+logs/*
+data/*
+analysis/*.png
+analysis/*.txt
+env/*
+EVALB
+.Rproj.user

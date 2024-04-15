@@ -1,0 +1,24 @@
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% Wed Mar 18 22:30:24 2020
+\begin{tabular}{rllllr}
+  \hline
+ & Model Type & Subject \# & Attractor \# & Grammaticality & Average Surprisal \\ 
+  \hline
+1 & lstm & P & P & G & 6.15 \\ 
+  2 & lstm & P & P & U & 6.34 \\ 
+  3 & lstm & P & S & G & 6.21 \\ 
+  4 & lstm & P & S & U & 6.30 \\ 
+  5 & lstm & S & P & G & 6.21 \\ 
+  6 & lstm & S & P & U & 6.23 \\ 
+  7 & lstm & S & S & G & 6.18 \\ 
+  8 & lstm & S & S & U & 6.37 \\ 
+  9 & rnng & P & P & G & 8.05 \\ 
+  10 & rnng & P & P & U & 8.20 \\ 
+  11 & rnng & P & S & G & 8.33 \\ 
+  12 & rnng & P & S & U & 8.35 \\ 
+  13 & rnng & S & P & G & 8.19 \\ 
+  14 & rnng & S & P & U & 8.25 \\ 
+  15 & rnng & S & S & G & 8.37 \\ 
+  16 & rnng & S & S & U & 8.56 \\ 
+   \hline
+\end{tabular}

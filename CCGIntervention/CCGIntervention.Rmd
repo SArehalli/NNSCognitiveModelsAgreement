@@ -1,0 +1,35 @@
+---
+title: "CCG_Intervention"
+output: html_document
+date: '2023-04-06'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+ablated_df <- read.csv("ablated_rep.csv")
+
+no_ablate <- subset(ablated_df, ablated_dim == -1)
+
+base_lm <- no_ablate["lm_loss"][[1]]
+base_ccg <- no_ablate["ccg_loss"][[1]]
+
+ggplot(data=subset(ablated_df, ablated_dim != -1), aes(x=ccg_loss, y=lm_loss, color=ablated_dim)) + 
+  geom_point() + 
+  geom_hline(yintercept=base_lm, linetype="dashed", color="red") +
+  geom_vline(xintercept=base_ccg, linetype="dashed", color="red") +
+  theme_bw() +
+  labs(x="Supertagging Loss", y="LM Loss", color="Ablated Neuron")
+
+ggsave("ablation.pdf")
+```
+```{r}
+cor.test(ablated_df$lm_loss, ablated_df$ccg_loss, method="pearson")
+```

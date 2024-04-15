@@ -1,0 +1,20 @@
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% Wed May  6 22:45:27 2020
+\begin{tabular}{rllllrr}
+  \hline
+ & Model Type & Subject \# & Local \# & Notional Bias & Sample & MaxProb \\ 
+  \hline
+1 & lstm & C & P & C & 52.17 & 52.22 \\ 
+  2 & lstm & C & P & D & 53.45 & 55.56 \\ 
+  3 & lstm & C & S & C & 13.42 & 3.33 \\ 
+  4 & lstm & P & P & C & 93.42 & 98.89 \\ 
+  5 & lstm & P & P & D & 94.25 & 98.89 \\ 
+  6 & lstm & P & S & C & 74.36 & 87.78 \\ 
+  7 & rnng & C & P & C & 31.44 & 26.67 \\ 
+  8 & rnng & C & P & D & 29.22 & 22.22 \\ 
+  9 & rnng & C & S & C & 10.32 & 4.44 \\ 
+  10 & rnng & P & P & C & 80.04 & 81.11 \\ 
+  11 & rnng & P & P & D & 81.29 & 82.22 \\ 
+  12 & rnng & P & S & C & 63.62 & 66.67 \\ 
+   \hline
+\end{tabular}

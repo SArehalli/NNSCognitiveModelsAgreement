@@ -1,0 +1,16 @@
+% latex table generated in R 3.6.1 by xtable 1.8-4 package
+% Wed May  6 22:48:05 2020
+\begin{tabular}{rlllrr}
+  \hline
+ & Model Type & Attractor \# & Argument Type & Sample & MaxProb \\ 
+  \hline
+1 & lstm & P & CORE & 10.49 & 0.83 \\ 
+  2 & lstm & P & OBLIQUE & 11.49 & 5.00 \\ 
+  3 & lstm & S & CORE & 4.03 & 0.42 \\ 
+  4 & lstm & S & OBLIQUE & 4.30 & 0.42 \\ 
+  5 & rnng & P & CORE & 24.69 & 18.33 \\ 
+  6 & rnng & P & OBLIQUE & 24.57 & 20.00 \\ 
+  7 & rnng & S & CORE & 14.73 & 9.58 \\ 
+  8 & rnng & S & OBLIQUE & 18.31 & 11.67 \\ 
+   \hline
+\end{tabular}

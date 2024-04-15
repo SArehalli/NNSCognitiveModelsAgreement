@@ -1,0 +1,178 @@
+---
+title: "all_verbs"
+output: html_document
+date: '2023-04-25'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(tidyr)
+library(lme4)
+library(lmerTest)
+library(glmmTMB)
+library(ggplot2)
+pallete = c("#318480", "#b4464f")
+```
+
+```{r}
+df_only <- read.csv("bock1992_lmonly.csv")
+df_ccg <- read.csv("bock1992_lmccg.csv")
+df_only <- df_only[,c("condition", "sentence", "item", "lstmlmonly.0.plural.score", "lstmlmonly.0.singular.score", "lstmlmonly.1.plural.score", "lstmlmonly.1.singular.score", "lstmlmonly.2.plural.score", "lstmlmonly.2.singular.score", "lstmlmonly.3.plural.score", "lstmlmonly.3.singular.score", "lstmlmonly.4.plural.score", "lstmlmonly.4.singular.score")]
+df_ccg <- df_ccg[,c("condition", "sentence", "item", "lstmlmccg.0.plural.score", "lstmlmccg.0.singular.score", "lstmlmccg.1.plural.score", "lstmlmccg.1.singular.score", "lstmlmccg.2.plural.score", "lstmlmccg.2.singular.score","lstmlmccg.3.plural.score", "lstmlmccg.3.singular.score","lstmlmccg.4.plural.score", "lstmlmccg.4.singular.score")]
+
+df <- merge(df_only, df_ccg) %>% 
+  gather("model", "score", c("lstmlmccg.0.plural.score", "lstmlmonly.0.plural.score", "lstmlmccg.0.singular.score", "lstmlmonly.0.singular.score", "lstmlmccg.1.plural.score", "lstmlmonly.1.plural.score", "lstmlmccg.1.singular.score", "lstmlmonly.1.singular.score", "lstmlmccg.2.plural.score", "lstmlmonly.2.plural.score", "lstmlmccg.2.singular.score", "lstmlmonly.2.singular.score", "lstmlmccg.3.plural.score", "lstmlmonly.3.plural.score", "lstmlmccg.3.singular.score", "lstmlmonly.3.singular.score", "lstmlmccg.4.plural.score", "lstmlmonly.4.plural.score", "lstmlmccg.4.singular.score", "lstmlmonly.4.singular.score")) %>% 
+  separate("model", c("modeltype", "modelnum", "number", "_")) %>% 
+  separate("item", c("exp", "item", "cond_", "mod_")) %>%
+  spread("number", "score")
+
+
+df <- df %>% separate(condition, c("subj", "attr", "mod"), c(1, 2)) %>% mutate(correct=ifelse(subj == "p", plural, singular), match=(subj==attr))
+```
+
+```{r}
+
+df_means <- df %>% group_by(mod, match, modeltype, modelnum) %>% summarize(correct=mean(correct))
+
+ggplot(df, aes(x=modelnum,y=1-correct, color=mod)) + 
+  stat_summary(data=subset(df, match==FALSE), geom="errorbar", width=0.35, position=position_dodge(0.5), aes(x=modelnum, group=mod)) + 
+  stat_summary(data=subset(df, match==TRUE), geom="errorbar", width=0.35, position=position_dodge(0.5), aes(x=modelnum, group=mod)) + 
+  geom_line(data=df_means, position=position_dodge(0.5), size=1.2) +
+  geom_point(data=subset(df_means, match==TRUE), position=position_dodge(0.5), aes(shape="m"), size=2, fill="#FFFFFF") +
+  geom_point(data=subset(df_means, match==FALSE), position=position_dodge(0.5), aes(shape="mm"), size=2, fill="#FFFFFF") +
+  scale_color_manual(labels=c("_prop"="PP Attractor", "_rc"="RC Attractor"), values=pallete) +
+  scale_shape_manual(labels=c("m"="Match",
+                            "mm"="Mismatch"),
+                   values=c("m"=21,
+                            "mm"=22)) +
+  labs(x="", 
+     color="", shape="", y="% Attraction Errors", title="") +
+  coord_cartesian(ylim=c(0.475, 0.51)) +
+  geom_hline(yintercept=0.50, linetype="dashed") + 
+  theme_bw() + facet_grid(~modeltype) +
+  theme(axis.text.x=element_text(size=12), axis.text.y=element_text(size=12),
+      axis.title.y=element_text(size=12), axis.title.x=element_text(size=10),
+      strip.text=element_text(size=12), legend.text=element_text(size=12))
+```
+
+```{r}
+
+b92_lm <- glmmTMB(data=subset(df, modeltype=="lstmlmccg"), 
+                  (1-correct) ~ subj * match * mod + (1 | item) + (1 | modelnum),
+                 family=beta_family())
+summary(b92_lm)
+
+
+
+```
+
+```{r}
+byverb_lmonly <- read.csv("bock1992_byverb_lmonly.csv") %>% 
+  separate(condition, c("subj", "attr", "mod"), c(1, 2)) %>% 
+  gather("model.number", "prob", c("X0.singular", "X0.plural", "X1.singular", "X1.plural", "X2.singular", "X2.plural", "X3.singular", "X3.plural", "X4.singular", "X4.plural")) %>%
+  separate("model.number", c("model", "number")) %>%
+  spread("number", "prob") %>%
+  mutate(correct=ifelse(subj == "p", plural, singular), match=(subj==attr))
+
+byverb_lmccg <- read.csv("bock1992_byverb_lmccg.csv") %>% 
+  separate(condition, c("subj", "attr", "mod"), c(1, 2)) %>% 
+  gather("model.number", "prob", c("X0.singular", "X0.plural", "X1.singular", "X1.plural", "X2.singular", "X2.plural", "X3.singular", "X3.plural", "X4.singular", "X4.plural")) %>%
+  separate("model.number", c("model", "number")) %>%
+  spread("number", "prob") %>%
+  mutate(correct=ifelse(subj == "p", plural, singular), match=(subj==attr))
+
+byverb_lmccg$modeltype <- "lmccg"
+byverb_lmonly$modeltype <- "lmonly"
+
+byverb <- rbind(byverb_lmccg, byverb_lmonly)
+freqs = read.csv("freqs_coca.csv")
+
+byverb_merged <- merge(byverb, freqs, by.x="word", by.y="word") %>% separate(item, c("study", "item", "cond", "mod2"))
+
+saveRDS(byverb_merged, "byverb.RDS")
+
+ggplot(byverb_merged, aes(x=log(count), y=correct, color=match)) + stat_summary(geom="point") + geom_hline(yintercept=0.5, linetype="dashed") + facet_grid(model~mod)
+```
+
+```{r}
+byverb_mmcost <- byverb_merged %>% 
+  pivot_wider(id_cols=c("item", "model", "mod", "subj", "word", "count", "modeltype"), names_from=match, values_from=correct) %>% rename(mismatch = "FALSE", match="TRUE") %>%
+  mutate(effect=mismatch-match)
+
+ggplot(byverb_mmcost, aes(x=log(count), y=effect, color=mod, linetype=mod, shape=mod)) + 
+  stat_summary(geom="point", size=0.2, alpha=0.3) + 
+  geom_hline(yintercept=0.0, linetype="dashed") + 
+  labs(x="log(count)", y="Attraction Effect (% Accuracy)", color="", linetype="", shape="") +
+  scale_color_manual(labels=c("_prop"="PP Attractor", "_rc"="RC Attractor"), values=pallete) +
+  scale_linetype_manual(labels=c("_prop"="PP Attractor", "_rc"="RC Attractor"), values=c("_prop"="1111", "_rc"="solid")) +
+  scale_shape_manual(labels=c("_prop"="PP Attractor", "_rc"="RC Attractor"), values=c("_prop"=22, "_rc"=23)) +
+  facet_grid(modeltype~model, labeller=as_labeller(c("X0"="Model 1", "X1"="Model 2", "X2"="Model 3", "X3"="Model 4", "X4"="Model 5", "lmonly"="LM Only", "lmccg"="LM+CCG"))) + theme_bw() + 
+  theme(axis.text.x=element_text(size=12), axis.text.y=element_text(size=12),
+      axis.title.y=element_text(size=12), axis.title.x=element_text(size=10),
+      strip.text=element_text(size=12), legend.text=element_text(size=12), legend.position="bottom") +
+  geom_smooth(method="lm") 
+#+
+#  guides(colour = guide_legend(override.aes = list(size=5)))
+
+ggsave("allverbs_freq.pdf", width=6, height=4)
+```
+
+```{r}
+byverb_merged <- byverb_merged %>% mutate(model=substr(model,2,2))
+df_means_byverb <- byverb_merged %>% group_by(mod, match, modeltype, model) %>% summarize(correct=mean(correct))
+
+ggplot(byverb_merged, aes(x=model,y=1-correct, color=mod, linetype=mod)) + 
+  stat_summary(data=subset(byverb_merged, match==FALSE), geom="errorbar", width=0.35, position=position_dodge(0.5), aes(x=model, group=mod)) + 
+  stat_summary(data=subset(byverb_merged, match==TRUE), geom="errorbar", width=0.35, position=position_dodge(0.5), aes(x=model, group=mod)) + 
+  geom_line(data=df_means_byverb, position=position_dodge(0.5), size=1.2) +
+  geom_point(data=subset(df_means_byverb, match==TRUE), position=position_dodge(0.5), aes(shape="m"), size=2, fill="#FFFFFF") +
+  geom_point(data=subset(df_means_byverb, match==FALSE), position=position_dodge(0.5), aes(shape="mm"), size=2, fill="#FFFFFF") +
+  scale_color_manual(labels=c("_prop"="PP Attractor", "_rc"="RC Attractor"), values=pallete) +
+  scale_shape_manual(labels=c("m"="Match",
+                            "mm"="Mismatch"),
+                   values=c("m"=21,
+                            "mm"=22)) +
+  scale_linetype_manual(labels=c("_prop"="PP Attractor", "_rc"="RC Attractor"), values=c("_prop"="1111", "_rc"="solid")) +
+  scale_x_discrete(labels=c("0"="Model 1", "1"="Model 2", "2"="Model 3", "3"="Model 4", "4"="Model 5", "lmonly"="LM Only", "lmccg"="LM+CCG")) +
+  labs(x="", color="", shape="", y="% Attraction Errors", title="", linetype="") +
+  coord_cartesian(ylim=c(0.0, 1.0)) +
+  geom_hline(yintercept=0.50, linetype="dashed") + 
+  theme_bw() + facet_grid(~modeltype, labeller=as_labeller(c("lmccg"="LM+CCG", "lmonly"="LM Only"))) +
+  theme(axis.text.x=element_text(size=12, angle=45, hjust=1), axis.text.y=element_text(size=12),
+      axis.title.y=element_text(size=12), axis.title.x=element_text(size=10),
+      strip.text=element_text(size=12), legend.text=element_text(size=12))
+
+ggsave("allverbs_avg.pdf", width=6, height=4)
+```
+
+
+
+```{r}
+byverb_merged <- readRDS("byverb.RDS")
+
+b92_lm <- glmmTMB(data=subset(byverb_merged, modeltype=="lmccg"), 
+                  (1-correct) ~ subj * match * mod + (1 | item) + (1 | model) + (1| word),
+                 family=beta_family())
+summary(b92_lm)
+
+saveRDS(b92_lm, "bock92_allverb_glm_REword.rds")
+
+b92_lm_f <- glmmTMB(data=subset(byverb_merged, modeltype=="lmccg"), 
+                  (1-correct) ~ subj * match * mod * log(count) + (1 | item) + (1 | model),
+                 family=beta_family())
+summary(b92_lm_f)
+
+saveRDS(b92_lm_f, "bock92_allverb_glm_FEfreq.rds")
+
+```
+
+```{r}
+b92_lm_f <- glmmTMB(data=subset(byverb_merged, modeltype=="lmonly"), 
+                  (1-correct) ~ subj * match * mod * log(count) + (1 | item) + (1 | model),
+                 family=beta_family())
+summary(b92_lm_f)
+
+saveRDS(b92_lm_f, "bock92_allverb_glm_FEfreq_lmonly.rds")
+```
